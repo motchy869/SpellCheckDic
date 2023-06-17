@@ -1,0 +1,5 @@
+arccos
+arcsin
+arctan
+argmax
+argmin

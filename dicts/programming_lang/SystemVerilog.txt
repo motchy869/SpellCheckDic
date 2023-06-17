@@ -1,0 +1,15 @@
+default_nettype
+endcase
+endmodule
+endpackage
+endtask
+fclose
+fopen
+fwrite
+ifndef
+localparam
+module
+posedge
+timeprecision
+timeunit
+uwire

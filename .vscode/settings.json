@@ -1,0 +1,13 @@
+{
+    "cSpell.dictionaryDefinitions": [],
+    "cSpell.customDictionaries": {
+        "project-words": {
+            "name": "project-words",
+            "path": "${workspaceRoot}/dict.txt",
+            "description": "Words used in this project",
+            "addWords": true
+        },
+        "custom": true, // Enable the `custom` dictionary
+        "internal-terms": true // Disable the `internal-terms` dictionary
+    }
+}
