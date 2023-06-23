@@ -1,3 +1,4 @@
+Simulink
 ACLK
 ARADDR
 ARBURST
@@ -8,6 +9,7 @@ ARPROT
 ARQOS
 ARREADY
 ARSIZE
+Artix
 ARUSER
 ARVALID
 AWADDR
@@ -27,6 +29,8 @@ BRESP
 BUFG
 BUSER
 BVALID
+Kintex
+Kria
 MMCM
 RDATA
 RLAST
@@ -41,6 +45,8 @@ WREADY
 WSTRB
 WUSER
 WVALID
+Zynq
+Digilent
 Chebyshev
 Parseval
 default_nettype
