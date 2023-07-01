@@ -1,3 +1,4 @@
+Digilent
 Simulink
 ACLK
 ARADDR
@@ -32,6 +33,8 @@ BVALID
 Kintex
 Kria
 MMCM
+RAMB18K
+RAMB36K
 RDATA
 RLAST
 RREADY
@@ -46,7 +49,8 @@ WSTRB
 WUSER
 WVALID
 Zynq
-Digilent
+JESD
+FWFT
 Chebyshev
 Parseval
 default_nettype
