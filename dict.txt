@@ -1,3 +1,4 @@
+Anritsu
 Digilent
 Simulink
 ACLK
@@ -49,7 +50,6 @@ WSTRB
 WUSER
 WVALID
 Zynq
-Anritsu
 JESD
 FWFT
 Chebyshev
@@ -65,6 +65,7 @@ fwrite
 ifndef
 localparam
 module
+nettype
 posedge
 systemverilog
 timeprecision
