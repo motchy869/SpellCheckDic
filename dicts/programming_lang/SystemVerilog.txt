@@ -10,6 +10,7 @@ ifndef
 localparam
 module
 posedge
+systemverilog
 timeprecision
 timeunit
 uwire

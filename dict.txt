@@ -65,9 +65,12 @@ ifndef
 localparam
 module
 posedge
+systemverilog
 timeprecision
 timeunit
 uwire
+addtoreset
+truept
 GPIO
 VRAM
 arccos
