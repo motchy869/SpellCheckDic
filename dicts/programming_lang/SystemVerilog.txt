@@ -9,6 +9,7 @@ fwrite
 ifndef
 localparam
 module
+nettype
 posedge
 systemverilog
 timeprecision
