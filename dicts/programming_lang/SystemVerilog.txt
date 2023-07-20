@@ -1,5 +1,6 @@
 default_nettype
 endcase
+endgenerate
 endmodule
 endpackage
 endtask
@@ -11,6 +12,7 @@ localparam
 module
 nettype
 posedge
+shortreal
 systemverilog
 timeprecision
 timeunit
