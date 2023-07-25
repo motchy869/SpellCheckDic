@@ -7,12 +7,14 @@ endtask
 fclose
 fopen
 fwrite
+genvar
 ifndef
 localparam
 module
 nettype
 posedge
 shortreal
+struct
 systemverilog
 timeprecision
 timeunit

@@ -54,6 +54,7 @@ Anritsu
 FWFT
 JESD
 SDRAM
+SRAM
 demux
 Chebyshev
 Parseval
@@ -68,12 +69,14 @@ endtask
 fclose
 fopen
 fwrite
+genvar
 ifndef
 localparam
 module
 nettype
 posedge
 shortreal
+struct
 systemverilog
 timeprecision
 timeunit
