@@ -1,3 +1,4 @@
+Anritsu
 Digilent
 Simulink
 ACLK
@@ -34,6 +35,7 @@ BVALID
 Kintex
 Kria
 MMCM
+MMCME
 RAMB18K
 RAMB36K
 RDATA
@@ -51,7 +53,6 @@ WSTRB
 WUSER
 WVALID
 Zynq
-Anritsu
 FWFT
 JESD
 SDRAM
@@ -59,8 +60,6 @@ SRAM
 demux
 Chebyshev
 Parseval
-addtoreset
-truept
 default_nettype
 endcase
 endgenerate
@@ -82,6 +81,8 @@ systemverilog
 timeprecision
 timeunit
 uwire
+addtoreset
+truept
 GPIO
 VRAM
 arccos
