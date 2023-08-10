@@ -60,6 +60,7 @@ SRAM
 demux
 Chebyshev
 Parseval
+tparam
 default_nettype
 endcase
 endgenerate
