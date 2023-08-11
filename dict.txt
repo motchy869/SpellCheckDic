@@ -60,6 +60,9 @@ SRAM
 demux
 Chebyshev
 Parseval
+bitblt
+GPIO
+VRAM
 tparam
 default_nettype
 endcase
@@ -84,8 +87,6 @@ timeunit
 uwire
 addtoreset
 truept
-GPIO
-VRAM
 arccos
 arcsin
 arctan
