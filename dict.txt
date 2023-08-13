@@ -53,6 +53,7 @@ WSTRB
 WUSER
 WVALID
 Zynq
+SFDR
 FWFT
 JESD
 SDRAM
@@ -66,6 +67,7 @@ VRAM
 tparam
 default_nettype
 endcase
+endfunction
 endgenerate
 endmodule
 endpackage
