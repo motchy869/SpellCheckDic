@@ -2,6 +2,7 @@ default_nettype
 endcase
 endfunction
 endgenerate
+endinterface
 endmodule
 endpackage
 endtask
@@ -11,6 +12,7 @@ fwrite
 genvar
 ifndef
 localparam
+modport
 module
 nettype
 posedge
@@ -20,3 +22,4 @@ systemverilog
 timeprecision
 timeunit
 uwire
+verilog
