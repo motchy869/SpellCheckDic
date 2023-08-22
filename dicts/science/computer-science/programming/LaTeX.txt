@@ -1,0 +1,5 @@
+coloneqq
+mathbb
+mathrm
+operatorname
+textrm

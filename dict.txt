@@ -67,6 +67,11 @@ bitblt
 GPIO
 VRAM
 tparam
+coloneqq
+mathbb
+mathrm
+operatorname
+textrm
 default_nettype
 endcase
 endfunction
