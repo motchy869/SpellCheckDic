@@ -67,6 +67,7 @@ bitblt
 GPIO
 VRAM
 tparam
+println
 coloneqq
 mathbb
 mathrm
