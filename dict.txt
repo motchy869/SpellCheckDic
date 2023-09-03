@@ -54,6 +54,7 @@ WUSER
 WVALID
 Zynq
 SFDR
+deassert
 DPRAM
 FWFT
 JESD
