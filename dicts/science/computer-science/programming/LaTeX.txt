@@ -1,5 +1,7 @@
 coloneqq
+infty
 mathbb
+mathop
 mathrm
 operatorname
 textrm

@@ -70,10 +70,13 @@ VRAM
 tparam
 println
 coloneqq
+infty
 mathbb
+mathop
 mathrm
 operatorname
 textrm
+ipynb
 default_nettype
 endcase
 endfunction
@@ -101,6 +104,7 @@ uwire
 verilog
 addtoreset
 truept
+DTFT
 arccos
 arcsin
 arctan
