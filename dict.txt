@@ -96,6 +96,7 @@ modport
 module
 nettype
 posedge
+sformatf
 shortreal
 struct
 systemverilog
