@@ -15,6 +15,7 @@ ifndef
 localparam
 modport
 module
+negedge
 nettype
 posedge
 sformatf
