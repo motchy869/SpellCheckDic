@@ -108,6 +108,7 @@ verilog
 addtoreset
 truept
 DTFT
+Remez
 arccos
 arcsin
 arctan
