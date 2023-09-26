@@ -1,6 +1,7 @@
 default_nettype
 endcase
 endclass
+endclocking
 endfunction
 endgenerate
 endinterface
