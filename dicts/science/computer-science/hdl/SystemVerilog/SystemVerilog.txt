@@ -13,6 +13,7 @@ fopen
 fwrite
 genvar
 ifndef
+inout
 localparam
 modport
 module

@@ -66,6 +66,7 @@ Chebyshev
 Parseval
 bitblt
 GPIO
+JTAG
 VRAM
 default_nettype
 endcase
@@ -82,6 +83,7 @@ fopen
 fwrite
 genvar
 ifndef
+inout
 localparam
 modport
 module

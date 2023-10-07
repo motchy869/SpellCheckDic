@@ -1,3 +1,4 @@
 bitblt
 GPIO
+JTAG
 VRAM
