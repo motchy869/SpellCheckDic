@@ -1,3 +1,6 @@
 UVM_NOCOMPARE
 UVM_NOPACK
+UVM_NOPRINT
 UVM_TESTNAME
+
+uvm_field_sarray_int

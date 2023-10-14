@@ -68,6 +68,9 @@ bitblt
 GPIO
 JTAG
 VRAM
+vlog
+vopt
+vsim
 default_nettype
 endcase
 endclass
@@ -77,6 +80,7 @@ endgenerate
 endinterface
 endmodule
 endpackage
+endproperty
 endtask
 fclose
 fopen
@@ -84,6 +88,7 @@ fwrite
 genvar
 ifndef
 inout
+isunknown
 localparam
 modport
 module
@@ -100,7 +105,10 @@ uwire
 verilog
 UVM_NOCOMPARE
 UVM_NOPACK
+UVM_NOPRINT
 UVM_TESTNAME
+
+uvm_field_sarray_int
 tparam
 println
 coloneqq

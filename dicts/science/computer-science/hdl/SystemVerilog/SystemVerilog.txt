@@ -7,6 +7,7 @@ endgenerate
 endinterface
 endmodule
 endpackage
+endproperty
 endtask
 fclose
 fopen
@@ -14,6 +15,7 @@ fwrite
 genvar
 ifndef
 inout
+isunknown
 localparam
 modport
 module
