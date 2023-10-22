@@ -70,6 +70,7 @@ JTAG
 VRAM
 vlog
 vopt
+voptargs
 vsim
 default_nettype
 endcase
