@@ -82,6 +82,7 @@ endinterface
 endmodule
 endpackage
 endproperty
+endsequence
 endtask
 fclose
 fopen
