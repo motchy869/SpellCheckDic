@@ -1,5 +1,6 @@
 Anritsu
 Digilent
+nios
 Simulink
 ACLK
 ARADDR
