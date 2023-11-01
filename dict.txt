@@ -73,12 +73,15 @@ vlog
 vopt
 voptargs
 vsim
+covergroup
+coverpoint
 default_nettype
 endcase
 endclass
 endclocking
 endfunction
 endgenerate
+endgroup
 endinterface
 endmodule
 endpackage
