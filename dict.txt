@@ -119,6 +119,7 @@ uvm_field_sarray_int
 tparam
 println
 coloneqq
+dotsc
 infty
 jsbook
 mathbb

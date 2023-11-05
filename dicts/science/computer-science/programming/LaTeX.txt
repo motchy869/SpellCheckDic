@@ -1,4 +1,5 @@
 coloneqq
+dotsc
 infty
 jsbook
 mathbb
