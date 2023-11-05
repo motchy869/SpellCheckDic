@@ -3,3 +3,4 @@ arcsin
 arctan
 argmax
 argmin
+Hadamard

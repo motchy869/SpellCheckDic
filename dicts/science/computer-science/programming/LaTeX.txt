@@ -1,5 +1,6 @@
 coloneqq
 infty
+jsbook
 mathbb
 mathop
 mathrm

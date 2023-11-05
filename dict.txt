@@ -120,6 +120,7 @@ tparam
 println
 coloneqq
 infty
+jsbook
 mathbb
 mathop
 mathrm
@@ -135,3 +136,4 @@ arcsin
 arctan
 argmax
 argmin
+Hadamard
