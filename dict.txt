@@ -108,6 +108,7 @@ struct
 systemverilog
 timeprecision
 timeunit
+uselib
 uwire
 verilog
 UVM_NOCOMPARE
