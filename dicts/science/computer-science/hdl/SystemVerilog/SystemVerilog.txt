@@ -27,6 +27,7 @@ module
 negedge
 nettype
 posedge
+readmemh
 sformatf
 shortreal
 struct

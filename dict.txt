@@ -69,6 +69,9 @@ bitblt
 GPIO
 JTAG
 VRAM
+novopt
+reportprogress
+vlib
 vlog
 vopt
 voptargs
@@ -102,6 +105,7 @@ module
 negedge
 nettype
 posedge
+readmemh
 sformatf
 shortreal
 struct

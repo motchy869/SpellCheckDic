@@ -1,3 +1,6 @@
+novopt
+reportprogress
+vlib
 vlog
 vopt
 voptargs
