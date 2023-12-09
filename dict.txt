@@ -121,6 +121,7 @@ UVM_NOPRINT
 UVM_TESTNAME
 
 uvm_field_sarray_int
+VHDL
 tparam
 println
 coloneqq
