@@ -138,7 +138,9 @@ ipynb
 addtoreset
 truept
 DTFT
+QPSK
 Remez
+ASIC
 arccos
 arcsin
 arctan
