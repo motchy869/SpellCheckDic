@@ -125,9 +125,11 @@ uvm_field_sarray_int
 VHDL
 tparam
 println
+splitdir
 versioninfo
 coloneqq
 dotsc
+eqqcolon
 infty
 jsbook
 mathbb
