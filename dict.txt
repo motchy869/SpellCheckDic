@@ -125,6 +125,7 @@ uvm_field_sarray_int
 VHDL
 tparam
 println
+readlines
 splitdir
 versioninfo
 coloneqq

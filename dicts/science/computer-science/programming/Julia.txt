@@ -1,3 +1,4 @@
 println
+readlines
 splitdir
 versioninfo
