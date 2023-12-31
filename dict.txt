@@ -133,10 +133,12 @@ dotsc
 eqqcolon
 infty
 jsbook
+lualatex
 mathbb
 mathop
 mathrm
 operatorname
+synctex
 textrm
 ipynb
 addtoreset
