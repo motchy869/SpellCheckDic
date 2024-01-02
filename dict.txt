@@ -139,9 +139,11 @@ mathop
 mathrm
 operatorname
 synctex
+texlive
 textrm
 ipynb
 addtoreset
+ghostscript
 truept
 DTFT
 QPSK

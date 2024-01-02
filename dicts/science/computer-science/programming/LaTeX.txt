@@ -9,4 +9,5 @@ mathop
 mathrm
 operatorname
 synctex
+texlive
 textrm
