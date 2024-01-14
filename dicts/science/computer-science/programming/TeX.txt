@@ -1,3 +1,5 @@
+auxout
 addtoreset
 ghostscript
+makeother
 truept

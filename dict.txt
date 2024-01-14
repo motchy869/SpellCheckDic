@@ -61,6 +61,7 @@ DPRAM
 FWFT
 JESD
 LFSR
+LVDS
 SDRAM
 SRAM
 demux
@@ -128,6 +129,7 @@ println
 readlines
 splitdir
 versioninfo
+amssymb
 coloneqq
 dotsc
 eqqcolon
@@ -142,8 +144,10 @@ synctex
 texlive
 textrm
 ipynb
+auxout
 addtoreset
 ghostscript
+makeother
 truept
 DTFT
 QPSK
