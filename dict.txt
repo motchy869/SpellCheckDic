@@ -71,6 +71,7 @@ bitblt
 GPIO
 JTAG
 VRAM
+Synthesizable
 novopt
 reportprogress
 vlib
