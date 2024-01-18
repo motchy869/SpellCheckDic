@@ -140,6 +140,7 @@ lualatex
 mathbb
 mathop
 mathrm
+newcommand
 operatorname
 synctex
 texlive
@@ -148,6 +149,7 @@ ipynb
 auxout
 addtoreset
 ghostscript
+hbox
 makeother
 truept
 DTFT

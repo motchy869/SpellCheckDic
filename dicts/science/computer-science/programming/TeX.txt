@@ -1,5 +1,6 @@
 auxout
 addtoreset
 ghostscript
+hbox
 makeother
 truept
