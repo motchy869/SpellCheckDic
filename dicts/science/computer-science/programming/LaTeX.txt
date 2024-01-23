@@ -10,6 +10,7 @@ mathop
 mathrm
 newcommand
 operatorname
+subsubsection
 synctex
 texlive
 textrm
