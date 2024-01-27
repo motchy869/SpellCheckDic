@@ -1,8 +1,10 @@
-deassert
+ASICdeassert
 DPRAM
 FWFT
+Gbps
 JESD
 LFSR
 LVDS
 SDRAM
+SERDES
 SRAM

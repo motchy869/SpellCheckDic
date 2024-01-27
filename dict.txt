@@ -56,13 +56,15 @@ WUSER
 WVALID
 Zynq
 SFDR
-deassert
+ASICdeassert
 DPRAM
 FWFT
+Gbps
 JESD
 LFSR
 LVDS
 SDRAM
+SERDES
 SRAM
 demux
 Chebyshev
@@ -156,7 +158,6 @@ truept
 DTFT
 QPSK
 Remez
-ASIC
 arccos
 arcsin
 arctan
