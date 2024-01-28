@@ -5,6 +5,7 @@ Gbps
 JESD
 LFSR
 LVDS
+Mbps
 SDRAM
 SERDES
 SRAM
