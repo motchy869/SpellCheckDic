@@ -141,6 +141,7 @@ infty
 jsbook
 lualatex
 mathbb
+mathcal
 mathop
 mathrm
 newcommand
