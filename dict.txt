@@ -56,7 +56,8 @@ WUSER
 WVALID
 Zynq
 SFDR
-ASICdeassert
+ASIC
+deassert
 DPRAM
 FWFT
 Gbps

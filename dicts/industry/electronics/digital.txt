@@ -1,4 +1,5 @@
-ASICdeassert
+ASIC
+deassert
 DPRAM
 FWFT
 Gbps
