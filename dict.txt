@@ -68,6 +68,7 @@ Mbps
 SDRAM
 SERDES
 SRAM
+Verible
 demux
 Chebyshev
 Parseval
