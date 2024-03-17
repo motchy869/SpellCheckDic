@@ -153,6 +153,7 @@ synctex
 texlive
 textrm
 ipynb
+tspan
 auxout
 addtoreset
 ghostscript
