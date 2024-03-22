@@ -1,4 +1,5 @@
 amssymb
+bmatrix
 coloneqq
 dotsc
 eqqcolon
@@ -8,6 +9,7 @@ lualatex
 mathbb
 mathcal
 mathop
+mathring
 mathrm
 newcommand
 operatorname
