@@ -1,10 +1,6 @@
 Accellera
-Anritsu
-Digilent
-Agilex
-nios
-Simulink
 ACLK
+ACLKEN
 ARADDR
 ARBURST
 ARCACHE
@@ -13,6 +9,7 @@ ARLOCK
 ARPROT
 ARQOS
 ARREADY
+ARREGION
 ARSIZE
 Artix
 ARUSER
@@ -24,6 +21,7 @@ AWID
 AWLEN
 AWLOCK
 AWPROT
+AWREGION
 AWQOS
 AWREADY
 AWSIZE
@@ -52,6 +50,7 @@ RVALID
 SLVERR
 Virtex
 Vivado
+VLNV
 VRFC
 WDATA
 WLAST
@@ -59,7 +58,15 @@ WREADY
 WSTRB
 WUSER
 WVALID
+xelab
+xsim
+xvlog
 Zynq
+Anritsu
+Digilent
+Agilex
+nios
+Simulink
 SFDR
 ASIC
 deassert
