@@ -124,6 +124,7 @@ modport
 module
 negedge
 nettype
+onehot
 posedge
 readmemh
 sformatf
@@ -141,6 +142,7 @@ UVM_NOPRINT
 UVM_TESTNAME
 
 uvm_field_sarray_int
+virtualbus
 VHDL
 SIGSEGV
 tparam

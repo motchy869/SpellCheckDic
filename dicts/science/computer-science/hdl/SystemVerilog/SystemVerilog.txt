@@ -26,6 +26,7 @@ modport
 module
 negedge
 nettype
+onehot
 posedge
 readmemh
 sformatf
