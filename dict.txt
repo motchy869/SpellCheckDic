@@ -68,6 +68,7 @@ xvlog
 Zynq
 Digilent
 Zybo
+Xcelium
 SFDR
 ASIC
 deassert
