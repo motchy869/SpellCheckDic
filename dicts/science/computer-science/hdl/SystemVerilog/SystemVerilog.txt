@@ -35,6 +35,7 @@ struct
 systemverilog
 timeprecision
 timeunit
+urandom
 uselib
 uwire
 verilog
