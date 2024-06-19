@@ -149,6 +149,7 @@ virtualbus
 VHDL
 downto
 SIGSEGV
+ppoll
 tparam
 println
 readlines
