@@ -1,8 +1,0 @@
-arccos
-arcsin
-arctan
-argmax
-argmin
-Cayley
-Frobenius
-Hadamard
