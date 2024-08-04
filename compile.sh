@@ -13,3 +13,6 @@ done
 
 # Remove empty lines from dict.txt
 sed -i '/^$/d' dict.txt
+
+# Sort dict.txt
+sort -o dict.txt dict.txt
