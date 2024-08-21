@@ -1,2 +1,8 @@
 Agilex
+byteenable
 nios
+readdata
+readdatavalid
+waitrequest
+writedata
+writeresponsevalid
