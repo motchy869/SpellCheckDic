@@ -11,8 +11,8 @@ for file in $files; do
     echo "" >> dict.txt
 done
 
-# Remove empty lines from dict.txt
-sed -i '/^$/d' dict.txt
+# Remove comment lines beginning with # and empty lines from dict.txt
+sed -i '/^#/d; /^$/d' dict.txt
 
 # Sort dict.txt
 sort -o dict.txt dict.txt
