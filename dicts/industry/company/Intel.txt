@@ -1,5 +1,7 @@
 Agilex
+AVMM
 byteenable
+DECODEERROR
 nios
 readdata
 readdatavalid
