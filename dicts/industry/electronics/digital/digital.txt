@@ -5,6 +5,7 @@ FWFT
 Gbps
 JESD
 LFSR
+LVCMOS
 LVDS
 LVTTL
 Mbps
