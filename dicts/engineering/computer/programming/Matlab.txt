@@ -1,0 +1,5 @@
+arrayfun
+fplot
+vpasolve
+xlabel
+ylabel

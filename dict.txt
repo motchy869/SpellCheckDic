@@ -115,6 +115,7 @@ arcsin
 arctan
 argmax
 argmin
+arrayfun
 auxout
 bitblt
 bmatrix
@@ -143,6 +144,7 @@ endtask
 eqqcolon
 fclose
 fopen
+fplot
 fwrite
 genvar
 ghostscript
@@ -205,10 +207,13 @@ vlib
 vlog
 vopt
 voptargs
+vpasolve
 vsim
 waitrequest
 writedata
 writeresponsevalid
 xelab
+xlabel
 xsim
 xvlog
+ylabel
