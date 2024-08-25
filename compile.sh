@@ -9,7 +9,7 @@ files=$(find ./dicts -name "*.txt")
 
 echo "" > dict.txt
 for file in $files; do
-    cat $file >> dict.txt
+    cat "$file" >> dict.txt
     echo "" >> dict.txt
 done
 
