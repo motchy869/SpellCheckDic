@@ -17,4 +17,4 @@ done
 sed -i '/^#/d; /^$/d' dict.txt
 
 # Sort dict.txt
-sort -o dict.txt dict.txt
+LANG=C sort -o dict.txt dict.txt
