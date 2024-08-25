@@ -3,6 +3,8 @@
 # This script searches all .txt files in "dicts" directory and concatenates them into one file "dict.txt"
 # To avoid unintended word concatenation, a line break is added at the end of each file.
 
+set -u
+
 files=$(find ./dicts -name "*.txt")
 
 echo "" > dict.txt
