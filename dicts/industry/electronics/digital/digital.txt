@@ -6,6 +6,7 @@ Gbps
 JESD
 LFSR
 LVDS
+LVTTL
 Mbps
 SCPI
 SDRAM
