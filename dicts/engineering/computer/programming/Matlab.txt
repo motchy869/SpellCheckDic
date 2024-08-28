@@ -2,4 +2,6 @@ arrayfun
 fplot
 vpasolve
 xlabel
+xlim
 ylabel
+ylim

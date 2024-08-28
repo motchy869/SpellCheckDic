@@ -214,6 +214,8 @@ writedata
 writeresponsevalid
 xelab
 xlabel
+xlim
 xsim
 xvlog
 ylabel
+ylim
