@@ -64,6 +64,7 @@ LogiCORE
 MMCM
 MMCME
 Mbps
+POSIX
 Parseval
 QPSK
 RAMB18K

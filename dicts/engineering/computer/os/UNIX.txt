@@ -1,2 +1,3 @@
-SIGSEGV
+POSIX
 ppoll
+SIGSEGV
