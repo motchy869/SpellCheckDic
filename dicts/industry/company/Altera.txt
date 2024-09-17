@@ -5,6 +5,7 @@ DECODEERROR
 nios
 readdata
 readdatavalid
+Stratix
 waitrequest
 writedata
 writeresponsevalid

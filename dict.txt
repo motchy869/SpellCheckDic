@@ -84,6 +84,7 @@ SIGSEGV
 SLVERR
 SRAM
 Simulink
+Stratix
 Synthesizable
 TDATA
 TREADY
