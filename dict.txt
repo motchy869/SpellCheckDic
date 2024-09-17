@@ -127,6 +127,7 @@ coloneqq
 covergroup
 coverpoint
 deassert
+deassertion
 default_nettype
 demux
 dotsc
