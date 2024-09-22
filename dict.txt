@@ -83,6 +83,7 @@ SFDR
 SIGSEGV
 SLVERR
 SRAM
+Seidel
 Simulink
 Stratix
 Synthesizable

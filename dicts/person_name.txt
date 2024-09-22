@@ -1,2 +1,3 @@
 Chebyshev
 Parseval
+Seidel
