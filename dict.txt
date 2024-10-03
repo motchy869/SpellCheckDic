@@ -181,6 +181,7 @@ operatorname
 posedge
 ppoll
 println
+pydantic
 readdata
 readdatavalid
 readlines
