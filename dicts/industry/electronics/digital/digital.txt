@@ -1,6 +1,7 @@
 ASIC
 deassert
 deassertion
+DIMM
 DPRAM
 FWFT
 Gbps

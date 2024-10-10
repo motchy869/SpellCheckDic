@@ -41,6 +41,7 @@ Cayley
 Chebyshev
 DECERR
 DECODEERROR
+DIMM
 DPRAM
 DTFT
 Digilent
