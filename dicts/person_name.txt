@@ -1,3 +1,4 @@
 Chebyshev
+Maclaurin
 Parseval
 Seidel

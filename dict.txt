@@ -64,6 +64,7 @@ LVTTL
 LogiCORE
 MMCM
 MMCME
+Maclaurin
 Mbps
 POSIX
 Parseval
@@ -202,6 +203,7 @@ timeunit
 tparam
 truept
 tspan
+underbracket
 urandom
 uselib
 uvm_field_sarray_int
