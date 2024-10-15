@@ -14,6 +14,7 @@ mathring
 mathrm
 newcommand
 operatorname
+parens
 subsubsection
 synctex
 texlive

@@ -180,6 +180,7 @@ nios
 novopt
 onehot
 operatorname
+parens
 posedge
 ppoll
 println
