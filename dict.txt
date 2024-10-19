@@ -66,6 +66,7 @@ MMCM
 MMCME
 Maclaurin
 Mbps
+Meiryo
 POSIX
 Parseval
 QPSK
