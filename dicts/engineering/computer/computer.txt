@@ -1,4 +1,2 @@
 bitblt
-GPIO
-JTAG
 VRAM
