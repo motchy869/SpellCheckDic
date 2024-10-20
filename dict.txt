@@ -49,6 +49,7 @@ EXOKAY
 FWFT
 Frobenius
 GPIO
+Gantt
 Gbps
 Hadamard
 IDTFT

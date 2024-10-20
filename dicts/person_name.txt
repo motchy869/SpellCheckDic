@@ -1,4 +1,5 @@
 Chebyshev
 Maclaurin
+Gantt
 Parseval
 Seidel
