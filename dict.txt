@@ -169,6 +169,7 @@ lualatex
 makeother
 mathbb
 mathcal
+mathjax
 mathop
 mathring
 mathrm

@@ -9,6 +9,7 @@ jsbook
 lualatex
 mathbb
 mathcal
+mathjax
 mathop
 mathring
 mathrm
