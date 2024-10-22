@@ -3,3 +3,4 @@ Maclaurin
 Gantt
 Parseval
 Seidel
+Thevenin
