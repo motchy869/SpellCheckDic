@@ -91,6 +91,7 @@ SFDR
 SIGSEGV
 SLVERR
 SRAM
+SSPD
 Seidel
 Simulink
 Stratix
@@ -129,6 +130,7 @@ argmax
 argmin
 arrayfun
 auxout
+baseband
 bitblt
 bmatrix
 byteenable
