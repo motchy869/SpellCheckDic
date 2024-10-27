@@ -2,5 +2,6 @@ Chebyshev
 Maclaurin
 Gantt
 Parseval
+Savart
 Seidel
 Thevenin

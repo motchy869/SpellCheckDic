@@ -54,6 +54,7 @@ Gantt
 Gbps
 Hadamard
 IDTFT
+IFFT
 IOSTANDARD
 JESD
 JTAG
@@ -68,6 +69,7 @@ MIMO
 MMCM
 MMCME
 Maclaurin
+Matroid
 Mbps
 Meiryo
 POSIX
@@ -92,6 +94,7 @@ SIGSEGV
 SLVERR
 SRAM
 SSPD
+Savart
 Seidel
 Simulink
 Stratix
