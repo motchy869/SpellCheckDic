@@ -54,6 +54,7 @@ GPIO
 Gantt
 Gbps
 Hadamard
+Hann
 IDTFT
 IFFT
 IOSTANDARD
@@ -95,8 +96,8 @@ SIGSEGV
 SLVERR
 SRAM
 SSPD
-Savart
 SYSREF
+Savart
 Seidel
 Simulink
 Stratix

@@ -1,6 +1,7 @@
 Chebyshev
-Maclaurin
 Gantt
+Hann
+Maclaurin
 Parseval
 Savart
 Seidel
