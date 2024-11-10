@@ -1,0 +1,12 @@
+asciidoctor
+autowidth
+doctitle
+ifeval
+latexmath
+revdate
+revnumber
+revremark
+sectanchors
+sectids
+sectnumlevels
+sectnums

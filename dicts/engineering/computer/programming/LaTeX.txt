@@ -1,5 +1,6 @@
 amssymb
 bmatrix
+boldsymbol
 coloneqq
 cleveref
 dotsc
