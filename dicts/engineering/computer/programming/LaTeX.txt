@@ -17,6 +17,7 @@ mathrm
 newcommand
 operatorname
 parens
+pythontex
 subsubsection
 synctex
 texlive

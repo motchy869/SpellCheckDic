@@ -3,6 +3,7 @@ autowidth
 doctitle
 ifeval
 latexmath
+linenums
 revdate
 revnumber
 revremark
