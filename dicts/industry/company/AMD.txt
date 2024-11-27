@@ -26,6 +26,7 @@ AWREADY
 AWSIZE
 AWUSER
 AWVALID
+axsim
 BRAM
 BREADY
 BRESP
@@ -48,8 +49,11 @@ RREADY
 RRESP
 RUSER
 RVALID
+sbct
 SLVERR
+tclbatch
 TDATA
+testplusarg
 TREADY
 TVALID
 Virtex
@@ -62,7 +66,9 @@ WREADY
 WSTRB
 WUSER
 WVALID
+xcrg
 xelab
 xsim
+xsimk
 xvlog
 Zynq

@@ -1,0 +1,6 @@
+checkwinsize
+dircolors
+fgrep
+ignoreboth
+histappend
+lesspipe

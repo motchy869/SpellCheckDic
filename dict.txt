@@ -138,11 +138,13 @@ arrayfun
 asciidoctor
 autowidth
 auxout
+axsim
 baseband
 bitblt
 bmatrix
 boldsymbol
 byteenable
+checkwinsize
 cleveref
 coloneqq
 covergroup
@@ -151,6 +153,7 @@ deassert
 deassertion
 default_nettype
 demux
+dircolors
 doctitle
 dotsc
 downto
@@ -168,6 +171,7 @@ endsequence
 endtask
 eqqcolon
 fclose
+fgrep
 fopen
 fplot
 fwrite
@@ -175,15 +179,19 @@ genvar
 ghostscript
 hbox
 highlightjs
+histappend
 ifdef
 ifeval
 ifndef
+ignoreboth
 infty
 inout
 ipynb
 isunknown
 jsbook
+juliaup
 latexmath
+lesspipe
 linenums
 localparam
 lualatex
@@ -194,6 +202,7 @@ mathjax
 mathop
 mathring
 mathrm
+miniforge
 modport
 module
 mult
@@ -219,6 +228,7 @@ reportprogress
 revdate
 revnumber
 revremark
+sbct
 sectanchors
 sectids
 sectnumlevels
@@ -230,6 +240,8 @@ struct
 subsubsection
 synctex
 systemverilog
+tclbatch
+testplusarg
 texlive
 textrm
 timeprecision
@@ -254,10 +266,12 @@ vsim
 waitrequest
 writedata
 writeresponsevalid
+xcrg
 xelab
 xlabel
 xlim
 xsim
+xsimk
 xvlog
 ylabel
 ylim
