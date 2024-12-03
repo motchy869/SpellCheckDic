@@ -270,6 +270,7 @@ xcrg
 xelab
 xlabel
 xlim
+xrefstyle
 xsim
 xsimk
 xvlog
