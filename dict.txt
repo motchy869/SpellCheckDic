@@ -150,6 +150,7 @@ cleveref
 coloneqq
 covergroup
 coverpoint
+darkpastelgreen
 deassert
 deassertion
 default_nettype

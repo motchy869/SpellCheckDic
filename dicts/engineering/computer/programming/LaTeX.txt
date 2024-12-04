@@ -3,6 +3,7 @@ bmatrix
 boldsymbol
 coloneqq
 cleveref
+darkpastelgreen
 dotsc
 eqqcolon
 infty
