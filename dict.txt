@@ -55,6 +55,7 @@ Gantt
 Gbps
 Hadamard
 Hann
+IDFT
 IDTFT
 IFFT
 IOSTANDARD
