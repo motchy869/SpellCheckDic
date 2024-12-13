@@ -75,6 +75,7 @@ Maclaurin
 Matroid
 Mbps
 Meiryo
+Microsemi
 POSIX
 Parseval
 Phasor
@@ -186,6 +187,7 @@ ifdef
 ifeval
 ifndef
 ignoreboth
+incdir
 infty
 inout
 ipynb
@@ -204,6 +206,7 @@ mathjax
 mathop
 mathring
 mathrm
+mfcu
 miniforge
 modport
 module
@@ -261,6 +264,7 @@ versioninfo
 virtualbus
 vlib
 vlog
+vmap
 vopt
 voptargs
 vpasolve

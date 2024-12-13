@@ -1,7 +1,10 @@
+incdir
+mfcu
 novopt
 reportprogress
 vlib
 vlog
+vmap
 vopt
 voptargs
 vsim
