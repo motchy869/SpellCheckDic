@@ -219,6 +219,7 @@ novopt
 onehot
 operatorname
 parens
+plantuml
 posedge
 ppoll
 println
