@@ -172,6 +172,7 @@ endpackage
 endproperty
 endsequence
 endtask
+enduml
 eqqcolon
 fclose
 fgrep
@@ -242,6 +243,7 @@ sectnums
 sformatf
 shortreal
 splitdir
+startuml
 struct
 subsubsection
 synctex
