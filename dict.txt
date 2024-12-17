@@ -240,6 +240,7 @@ sectanchors
 sectids
 sectnumlevels
 sectnums
+sformat
 sformatf
 shortreal
 splitdir

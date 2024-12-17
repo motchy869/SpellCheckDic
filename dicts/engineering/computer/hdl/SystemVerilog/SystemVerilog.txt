@@ -29,6 +29,7 @@ nettype
 onehot
 posedge
 readmemh
+sformat
 sformatf
 shortreal
 struct
