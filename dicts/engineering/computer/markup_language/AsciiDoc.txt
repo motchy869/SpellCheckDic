@@ -1,6 +1,8 @@
+adoc
 asciidoctor
 autowidth
 doctitle
+fontsdir
 ifeval
 latexmath
 linenums

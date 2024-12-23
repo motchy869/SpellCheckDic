@@ -130,6 +130,7 @@ Xcelium
 Zybo
 Zynq
 addtoreset
+adoc
 amssymb
 arccos
 arcsin
@@ -176,6 +177,7 @@ enduml
 eqqcolon
 fclose
 fgrep
+fontsdir
 fopen
 fplot
 fwrite
