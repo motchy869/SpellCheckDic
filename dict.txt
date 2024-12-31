@@ -50,6 +50,7 @@ ENBW
 EXOKAY
 FWFT
 Frobenius
+GOPATH
 GPIO
 Gantt
 Gbps
