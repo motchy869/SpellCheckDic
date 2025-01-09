@@ -38,6 +38,7 @@ BRESP
 BUFG
 BUSER
 BVALID
+Cassegrain
 Cayley
 Chebyshev
 DECERR
@@ -208,6 +209,7 @@ mathbb
 mathcal
 mathjax
 mathop
+mathrel
 mathring
 mathrm
 mfcu

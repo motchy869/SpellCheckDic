@@ -13,6 +13,7 @@ mathbb
 mathcal
 mathjax
 mathop
+mathrel
 mathring
 mathrm
 newcommand
