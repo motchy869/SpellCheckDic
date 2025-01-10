@@ -1,5 +1,8 @@
 juliaup
+minorgrid
 println
 readlines
 splitdir
 versioninfo
+yflip
+yscale

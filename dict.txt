@@ -214,6 +214,7 @@ mathring
 mathrm
 mfcu
 miniforge
+minorgrid
 modport
 module
 mult
@@ -289,5 +290,7 @@ xrefstyle
 xsim
 xsimk
 xvlog
+yflip
 ylabel
 ylim
+yscale
