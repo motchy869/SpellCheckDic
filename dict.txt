@@ -192,6 +192,7 @@ ifdef
 ifeval
 ifndef
 ignoreboth
+imageblock
 incdir
 infty
 inout
@@ -255,6 +256,7 @@ struct
 subsubsection
 synctex
 systemverilog
+tableblock
 tclbatch
 testplusarg
 texlive
