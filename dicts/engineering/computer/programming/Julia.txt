@@ -4,5 +4,11 @@ println
 readlines
 splitdir
 versioninfo
+# Plots
+framestyle
+linecolor
+linestyle
 yflip
 yscale
+savefig
+zerolines
