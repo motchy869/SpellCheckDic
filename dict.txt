@@ -78,6 +78,7 @@ Matroid
 Mbps
 Meiryo
 Microsemi
+Multirate
 POSIX
 Parseval
 Phasor
