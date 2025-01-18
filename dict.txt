@@ -177,6 +177,7 @@ endproperty
 endsequence
 endtask
 enduml
+eqnums
 eqqcolon
 fclose
 fgrep
@@ -242,6 +243,7 @@ readdata
 readdatavalid
 readlines
 readmemh
+reftext
 reportprogress
 revdate
 revnumber

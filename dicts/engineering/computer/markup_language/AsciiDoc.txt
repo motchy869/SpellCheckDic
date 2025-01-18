@@ -2,11 +2,13 @@ adoc
 asciidoctor
 autowidth
 doctitle
+eqnums
 fontsdir
 ifeval
 imageblock
 latexmath
 linenums
+reftext
 revdate
 revnumber
 revremark
