@@ -20,8 +20,10 @@ newcommand
 operatorname
 parens
 pythontex
+renewcommand
 subsubsection
 synctex
 texlive
 textrm
 underbracket
+Verts

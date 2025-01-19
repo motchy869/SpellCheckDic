@@ -121,6 +121,7 @@ VLNV
 VRAM
 VRFC
 Verible
+Verts
 Virtex
 Vivado
 WDATA
@@ -244,6 +245,7 @@ readdatavalid
 readlines
 readmemh
 reftext
+renewcommand
 reportprogress
 revdate
 revnumber
