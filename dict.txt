@@ -73,6 +73,7 @@ LogiCORE
 MIMO
 MMCM
 MMCME
+MRAM
 Maclaurin
 Matroid
 Mbps
