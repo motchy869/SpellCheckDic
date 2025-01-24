@@ -1,5 +1,6 @@
 DTFT
 IDTFT
 Multirate
+PAPR
 QPSK
 Remez

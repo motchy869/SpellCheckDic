@@ -8,6 +8,7 @@ versioninfo
 framestyle
 linecolor
 linestyle
+xlims
 yflip
 yscale
 savefig
