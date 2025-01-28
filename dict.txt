@@ -50,6 +50,7 @@ DPRAM
 DTFT
 Digilent
 ENBW
+ENOB
 EXOKAY
 FWFT
 Frobenius

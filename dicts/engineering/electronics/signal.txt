@@ -1,4 +1,5 @@
 baseband
 ENBW
+ENOB
 IFFT
 SFDR
