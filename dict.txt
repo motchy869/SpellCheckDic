@@ -136,6 +136,7 @@ WREADY
 WSTRB
 WUSER
 WVALID
+XLOOKUP
 Xcelium
 Zybo
 Zynq
@@ -221,6 +222,7 @@ juliaup
 jvlisting
 kpsewich
 latexmath
+latexmk
 lesspipe
 letltxmacro
 linecolor

@@ -21,6 +21,7 @@ kpsewich
 letltxmacro
 listingsutf8
 longtable
+latexmk
 lualatex
 mathbb
 mathcal
