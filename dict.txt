@@ -54,6 +54,7 @@ ENOB
 EXOKAY
 FWFT
 Frobenius
+GKJL
 GOPATH
 GPIO
 Gantt
@@ -140,6 +141,7 @@ XLOOKUP
 Xcelium
 Zybo
 Zynq
+abstol
 addtoreset
 adoc
 amssymb
@@ -270,6 +272,7 @@ readdatavalid
 readlines
 readmemh
 reftext
+reltol
 renewcommand
 reportprogress
 revdate

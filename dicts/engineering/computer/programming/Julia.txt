@@ -4,6 +4,10 @@ println
 readlines
 splitdir
 versioninfo
+# Integrals
+reltol
+abstol
+GKJL
 # Plots
 framestyle
 linecolor
