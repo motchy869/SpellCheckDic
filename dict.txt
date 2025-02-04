@@ -165,6 +165,8 @@ byteenable
 bytefield
 checkwinsize
 cleveref
+coeff
+coeffs
 coloneqq
 conv
 counterwithin

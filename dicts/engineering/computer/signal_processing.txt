@@ -1,3 +1,5 @@
+coeff
+coeffs
 DTFT
 IDTFT
 Multirate
