@@ -6,3 +6,5 @@ Multirate
 PAPR
 QPSK
 Remez
+samp
+samps

@@ -281,6 +281,8 @@ reportprogress
 revdate
 revnumber
 revremark
+samp
+samps
 savefig
 sbct
 sectanchors
