@@ -64,6 +64,7 @@ Hann
 IDFT
 IDTFT
 IFFT
+INITIALDLY
 IOSTANDARD
 JESD
 JTAG
@@ -183,6 +184,7 @@ dircolors
 doctitle
 dotsc
 downto
+elab
 endcase
 endclass
 endclocking
@@ -306,6 +308,7 @@ testplusarg
 texlive
 texmf
 textrm
+timeformat
 timeprecision
 timeunit
 tparam
@@ -317,6 +320,8 @@ urandom
 uselib
 uvm_field_sarray_int
 uwire
+vecs
+verilator
 verilog
 versioninfo
 virtualbus

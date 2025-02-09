@@ -34,6 +34,7 @@ sformatf
 shortreal
 struct
 systemverilog
+timeformat
 timeprecision
 timeunit
 urandom

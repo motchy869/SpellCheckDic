@@ -1,2 +1,3 @@
 AHDL
+elab
 Synthesizable
