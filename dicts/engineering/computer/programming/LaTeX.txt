@@ -47,6 +47,7 @@ synctex
 texlive
 texmf
 textrm
+tlmgr
 udline
 underbracket
 Verts

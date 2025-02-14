@@ -1,2 +1,6 @@
 # abbreviations
 conv
+interp
+mult
+pswd
+vecs
