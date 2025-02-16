@@ -39,6 +39,7 @@ BRESP
 BUFG
 BUSER
 BVALID
+Bezout
 Butterworth
 Cassegrain
 Cayley
