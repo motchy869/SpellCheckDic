@@ -90,6 +90,7 @@ Meiryo
 Microsemi
 Multirate
 PAPR
+PINCONNECTEMPTY
 POSIX
 Parseval
 Phasor
@@ -189,6 +190,7 @@ doctitle
 dotsc
 downto
 elab
+elems
 endcase
 endclass
 endclocking
@@ -275,6 +277,7 @@ posedge
 ppoll
 println
 pswd
+ptrs
 pydantic
 pygments
 pythontex

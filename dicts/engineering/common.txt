@@ -1,6 +1,8 @@
 # abbreviations
 conv
+elems
 interp
 mult
 pswd
+ptrs
 vecs
