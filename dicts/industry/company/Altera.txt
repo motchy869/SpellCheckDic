@@ -2,6 +2,7 @@ Agilex
 AVMM
 byteenable
 DECODEERROR
+megafunction
 nios
 readdata
 readdatavalid

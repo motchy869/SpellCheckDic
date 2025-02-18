@@ -41,6 +41,7 @@ BUSER
 BVALID
 Bezout
 Butterworth
+CNTR
 Cassegrain
 Cayley
 Chebyshev
@@ -113,6 +114,8 @@ SIGSEGV
 SLVERR
 SRAM
 SSPD
+STATICVAR
+STRM
 SYSREF
 Savart
 Seidel
@@ -148,6 +151,7 @@ Xcelium
 Zybo
 Zynq
 abstol
+aclr
 addtoreset
 adoc
 amssymb
@@ -171,6 +175,7 @@ byteenable
 bytefield
 checkwinsize
 cleveref
+clken
 coeff
 coeffs
 coloneqq
@@ -254,10 +259,12 @@ mathop
 mathrel
 mathring
 mathrm
+megafunction
 mfcu
 miniforge
 minorgrid
 mktexlsr
+modelsim
 modport
 module
 mult
@@ -272,6 +279,7 @@ onehot
 operatorname
 parens
 pdfauthor
+pipelinable
 plantuml
 posedge
 ppoll

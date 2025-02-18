@@ -1,8 +1,12 @@
 # abbreviations
+## control
+CNTR
 conv
 elems
 interp
 mult
 pswd
 ptrs
+## stream
+STRM
 vecs

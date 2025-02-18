@@ -1,5 +1,6 @@
 incdir
 mfcu
+modelsim
 novopt
 reportprogress
 vlib

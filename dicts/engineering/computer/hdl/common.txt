@@ -1,3 +1,6 @@
+aclr
 AHDL
+clken
 elab
+pipelinable
 Synthesizable
