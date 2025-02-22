@@ -212,6 +212,7 @@ enduml
 eqnums
 eqqcolon
 fclose
+fdisplay
 fgrep
 fontsdir
 fopen
