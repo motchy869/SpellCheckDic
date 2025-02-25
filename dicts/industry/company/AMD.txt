@@ -41,6 +41,7 @@ Kria
 LogiCORE
 MMCM
 MMCME
+petalinux
 RAMB18K
 RAMB36K
 RDATA

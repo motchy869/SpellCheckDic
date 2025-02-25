@@ -90,6 +90,7 @@ Mbps
 Meiryo
 Microsemi
 Multirate
+PALTEK
 PAPR
 PINCONNECTEMPTY
 POSIX
@@ -280,6 +281,7 @@ onehot
 operatorname
 parens
 pdfauthor
+petalinux
 pipelinable
 plantuml
 posedge
