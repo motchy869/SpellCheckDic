@@ -55,6 +55,7 @@ ENBW
 ENOB
 EXOKAY
 Efinix
+FFTW
 FWFT
 Frobenius
 GKJL
@@ -335,6 +336,7 @@ tlmgr
 tparam
 truept
 tspan
+twinx
 udline
 underbracket
 urandom

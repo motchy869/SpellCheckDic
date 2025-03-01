@@ -1,3 +1,4 @@
+FFTW
 juliaup
 minorgrid
 println
@@ -16,4 +17,5 @@ xlims
 yflip
 yscale
 savefig
+twinx
 zerolines
