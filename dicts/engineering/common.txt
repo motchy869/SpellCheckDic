@@ -9,4 +9,6 @@ pswd
 ptrs
 ## stream
 STRM
+## transfer
+xfer
 vecs

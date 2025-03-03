@@ -360,10 +360,12 @@ writedata
 writeresponsevalid
 xcrg
 xelab
+xfer
 xlabel
 xlim
 xlims
 xrefstyle
+xscale
 xsim
 xsimk
 xvlog
