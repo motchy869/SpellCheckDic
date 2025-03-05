@@ -17,4 +17,5 @@ sectids
 sectnumlevels
 sectnums
 tableblock
+toclevels
 xrefstyle
