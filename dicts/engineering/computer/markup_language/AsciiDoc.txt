@@ -8,6 +8,7 @@ ifeval
 imageblock
 latexmath
 linenums
+loweralpha
 reftext
 revdate
 revnumber
