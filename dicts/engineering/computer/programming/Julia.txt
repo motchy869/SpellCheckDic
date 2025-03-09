@@ -1,22 +1,24 @@
 FFTW
 juliaup
-minorgrid
 println
 readlines
 splitdir
 versioninfo
 # Integrals
-reltol
 abstol
 GKJL
+reltol
 # Plots
 framestyle
 linecolor
 linestyle
+minorgrid
+savefig
+twinx
 xlims
 xscale
 yflip
 yscale
-savefig
-twinx
 zerolines
+# Polynomials
+fromroots

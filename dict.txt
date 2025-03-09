@@ -220,6 +220,7 @@ fontsdir
 fopen
 fplot
 framestyle
+fromroots
 fwrite
 genvar
 ghostscript
