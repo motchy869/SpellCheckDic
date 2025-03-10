@@ -48,6 +48,7 @@ Chebyshev
 DECERR
 DECODEERROR
 DIMM
+DPDK
 DPRAM
 DTFT
 Digilent
