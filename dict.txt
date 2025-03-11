@@ -52,6 +52,7 @@ DPDK
 DPRAM
 DTFT
 Digilent
+Diplexer
 ENBW
 ENOB
 EXOKAY
@@ -91,6 +92,7 @@ Matroid
 Mbps
 Meiryo
 Microsemi
+Miyauchi
 Multirate
 PALTEK
 PAPR

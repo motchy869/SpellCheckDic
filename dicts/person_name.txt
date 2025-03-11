@@ -5,6 +5,7 @@ Chebyshev
 Gantt
 Hann
 Maclaurin
+Miyauchi
 Parseval
 Savart
 Seidel
