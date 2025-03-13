@@ -345,6 +345,7 @@ tspan
 twinx
 udline
 underbracket
+upperroman
 urandom
 uselib
 uvm_field_sarray_int

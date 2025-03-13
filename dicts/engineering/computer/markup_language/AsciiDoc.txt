@@ -19,4 +19,5 @@ sectnumlevels
 sectnums
 tableblock
 toclevels
+upperroman
 xrefstyle
