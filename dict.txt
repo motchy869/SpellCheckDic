@@ -235,6 +235,7 @@ ifdef
 ifeval
 ifndef
 ifplatform
+ifstar
 ignoreboth
 imageblock
 incdir
@@ -264,9 +265,11 @@ mathbb
 mathcal
 mathjax
 mathop
+mathoperator
 mathrel
 mathring
 mathrm
+mathtools
 megafunction
 mfcu
 miniforge
