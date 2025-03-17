@@ -18,7 +18,7 @@ ifstar
 infty
 jsbook
 jvlisting
-kpsewich
+kpsewhich
 letltxmacro
 listingsutf8
 longtable

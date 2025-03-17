@@ -247,7 +247,7 @@ isunknown
 jsbook
 juliaup
 jvlisting
-kpsewich
+kpsewhich
 latexmath
 latexmk
 lesspipe
