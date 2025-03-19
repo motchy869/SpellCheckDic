@@ -141,6 +141,7 @@ VHDL
 VLNV
 VRAM
 VRFC
+Vandermonde
 Verible
 Verts
 Virtex
@@ -273,6 +274,7 @@ mathtools
 megafunction
 mfcu
 miniforge
+minipage
 minorgrid
 mktexlsr
 modelsim
@@ -322,6 +324,7 @@ sectnumlevels
 sectnums
 sformat
 sformatf
+shadebox
 shortreal
 siunitx
 splitdir

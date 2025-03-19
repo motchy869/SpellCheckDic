@@ -33,6 +33,7 @@ mathrel
 mathring
 mathrm
 mathtools
+minipage
 mktexlsr
 multirow
 newcommand
@@ -42,8 +43,9 @@ parens
 pdfauthor
 pythontex
 renewcommand
-SpiX
+shadebox
 siunitx
+SpiX
 stepnumber
 subsubsection
 synctex

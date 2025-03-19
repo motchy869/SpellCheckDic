@@ -10,3 +10,4 @@ Parseval
 Savart
 Seidel
 Thevenin
+Vandermonde
