@@ -191,6 +191,7 @@ covergroup
 coverpoint
 currfile
 darkpastelgreen
+dataclass
 datatool
 deassert
 deassertion
@@ -246,6 +247,7 @@ interp
 ipynb
 isunknown
 jsbook
+juliacall
 juliaup
 jvlisting
 kpsewhich
@@ -271,6 +273,7 @@ mathrel
 mathring
 mathrm
 mathtools
+matplotlib
 megafunction
 mfcu
 miniforge
@@ -282,18 +285,22 @@ modport
 module
 mult
 multirow
+ndarray
 negedge
 nettype
 newcommand
+newmodule
 nios
 nonstopmode
 novopt
+numpy
 onehot
 operatorname
 parens
 pdfauthor
 petalinux
 pipelinable
+pipenv
 plantuml
 posedge
 ppoll
@@ -302,6 +309,7 @@ pswd
 ptrs
 pydantic
 pygments
+pypi
 pythontex
 readdata
 readdatavalid
@@ -318,10 +326,12 @@ samp
 samps
 savefig
 sbct
+scipy
 sectanchors
 sectids
 sectnumlevels
 sectnums
+seval
 sformat
 sformatf
 shadebox

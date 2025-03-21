@@ -1,4 +1,15 @@
+dataclass
 ipynb
+matplotlib
 miniforge
+ndarray
+numpy
+pipenv
 pydantic
 pygments
+pypi
+scipy
+#JuliaCall
+juliacall
+newmodule
+seval
