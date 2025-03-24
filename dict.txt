@@ -216,6 +216,7 @@ endproperty
 endsequence
 endtask
 enduml
+enumx
 eqnums
 eqqcolon
 fclose
@@ -395,5 +396,6 @@ xvlog
 yflip
 ylabel
 ylim
+ylims
 yscale
 zerolines
