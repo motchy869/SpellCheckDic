@@ -7,6 +7,7 @@ bytefield
 cleveref
 coloneqq
 counterwithin
+cref
 currfile
 darkpastelgreen
 datatool
@@ -37,12 +38,15 @@ minipage
 mktexlsr
 multirow
 newcommand
+newlabel
 nonstopmode
 operatorname
 parens
 pdfauthor
+pdfsubject
 pythontex
 renewcommand
+seccntformat
 shadebox
 siunitx
 SpiX
@@ -51,8 +55,10 @@ subsubsection
 synctex
 texlive
 texmf
+textbackslash
 textrm
 tlmgr
+truemm
 udline
 underbracket
 Verts

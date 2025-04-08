@@ -189,6 +189,7 @@ conv
 counterwithin
 covergroup
 coverpoint
+cref
 currfile
 darkpastelgreen
 dataclass
@@ -290,6 +291,7 @@ ndarray
 negedge
 nettype
 newcommand
+newlabel
 newmodule
 nios
 nonstopmode
@@ -299,6 +301,7 @@ onehot
 operatorname
 parens
 pdfauthor
+pdfsubject
 petalinux
 pipelinable
 pipenv
@@ -328,6 +331,7 @@ samps
 savefig
 sbct
 scipy
+seccntformat
 sectanchors
 sectids
 sectnumlevels
@@ -350,6 +354,7 @@ tclbatch
 testplusarg
 texlive
 texmf
+textbackslash
 textrm
 timeformat
 timeprecision
@@ -357,6 +362,7 @@ timeunit
 tlmgr
 toclevels
 tparam
+truemm
 truept
 tspan
 twinx
@@ -368,6 +374,7 @@ uselib
 uvm_field_sarray_int
 uwire
 vecs
+verif
 verilator
 verilog
 versioninfo
