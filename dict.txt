@@ -182,6 +182,7 @@ bytefield
 checkwinsize
 cleveref
 clken
+codegen
 coeff
 coeffs
 coloneqq

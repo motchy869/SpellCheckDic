@@ -1,4 +1,5 @@
 arrayfun
+codegen
 fplot
 vpasolve
 xlabel
