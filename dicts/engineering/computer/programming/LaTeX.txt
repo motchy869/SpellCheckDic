@@ -1,3 +1,5 @@
+afterindentfalse
+afterindenttrue
 amssymb
 arydshln
 bmatrix
@@ -40,12 +42,15 @@ multirow
 newcommand
 newlabel
 nonstopmode
+numberfalse
+numbertrue
 operatorname
 parens
 pdfauthor
 pdfsubject
 pythontex
 renewcommand
+schapter
 seccntformat
 shadebox
 siunitx
@@ -58,6 +63,7 @@ texmf
 textbackslash
 textrm
 tlmgr
+topnum
 truemm
 udline
 underbracket

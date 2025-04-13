@@ -102,6 +102,7 @@ Parseval
 Phasor
 QPSK
 QSFP
+QSPI
 RAMB18K
 RAMB36K
 RDATA
@@ -160,6 +161,8 @@ abstol
 aclr
 addtoreset
 adoc
+afterindentfalse
+afterindenttrue
 amssymb
 arccos
 arcsin
@@ -297,6 +300,8 @@ newmodule
 nios
 nonstopmode
 novopt
+numberfalse
+numbertrue
 numpy
 onehot
 operatorname
@@ -331,6 +336,7 @@ samp
 samps
 savefig
 sbct
+schapter
 scipy
 seccntformat
 sectanchors
@@ -362,6 +368,7 @@ timeprecision
 timeunit
 tlmgr
 toclevels
+topnum
 tparam
 truemm
 truept
