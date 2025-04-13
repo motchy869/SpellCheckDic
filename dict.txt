@@ -57,6 +57,7 @@ ENBW
 ENOB
 EXOKAY
 Efinix
+FBGA
 FFTW
 FWFT
 Frobenius
@@ -256,6 +257,7 @@ jsbook
 juliacall
 juliaup
 jvlisting
+kbit
 kpsewhich
 latexmath
 latexmk
