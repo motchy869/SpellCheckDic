@@ -13,3 +13,4 @@ scipy
 juliacall
 newmodule
 seval
+sympy

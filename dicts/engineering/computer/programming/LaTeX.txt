@@ -2,6 +2,9 @@ afterindentfalse
 afterindenttrue
 amssymb
 arydshln
+beamer
+biblatex
+bibtex
 bmatrix
 boldsymbol
 bitboxes
@@ -13,6 +16,7 @@ cref
 currfile
 darkpastelgreen
 datatool
+documentclass
 dotsc
 eqqcolon
 hyperref
@@ -47,6 +51,7 @@ numbertrue
 operatorname
 parens
 pdfauthor
+pdflatex
 pdfsubject
 pythontex
 renewcommand
@@ -62,6 +67,7 @@ texlive
 texmf
 textbackslash
 textrm
+tikz
 tlmgr
 topnum
 truemm
