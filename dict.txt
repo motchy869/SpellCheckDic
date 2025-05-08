@@ -317,6 +317,7 @@ numbertrue
 numpy
 onehot
 operatorname
+outertopleft
 parens
 pdfauthor
 pdflatex
