@@ -357,6 +357,7 @@ sectanchors
 sectids
 sectnumlevels
 sectnums
+seriestype
 seval
 sformat
 sformatf

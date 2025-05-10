@@ -15,6 +15,7 @@ linecolor
 linestyle
 minorgrid
 outertopleft
+seriestype
 savefig
 twinx
 vline
