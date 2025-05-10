@@ -404,6 +404,7 @@ verilog
 versioninfo
 virtualbus
 vlib
+vline
 vlog
 vmap
 vopt
