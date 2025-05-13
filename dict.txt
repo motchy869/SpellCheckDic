@@ -248,6 +248,7 @@ ghostscript
 hbox
 highlightjs
 histappend
+hline
 hyperref
 ifdef
 ifeval

@@ -11,6 +11,7 @@ GKJL
 reltol
 # Plots
 framestyle
+hline
 linecolor
 linestyle
 minorgrid
