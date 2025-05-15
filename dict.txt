@@ -414,6 +414,7 @@ voptargs
 vpasolve
 vsim
 waitrequest
+wcfg
 writedata
 writeresponsevalid
 xcrg

@@ -61,6 +61,7 @@ Virtex
 Vivado
 VLNV
 VRFC
+wcfg
 WDATA
 WLAST
 WREADY
