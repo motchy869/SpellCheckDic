@@ -14,6 +14,7 @@ framestyle
 hline
 linecolor
 linestyle
+maxiter
 minorgrid
 outertopleft
 seriestype
