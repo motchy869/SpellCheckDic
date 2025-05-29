@@ -54,6 +54,7 @@ DPRAM
 DTFT
 Digilent
 Diplexer
+Docomo
 ENBW
 ENOB
 EXOKAY
@@ -100,6 +101,7 @@ Microsemi
 Miyauchi
 Multirate
 NCOM
+NICT
 PALTEK
 PAPR
 PINCONNECTEMPTY
