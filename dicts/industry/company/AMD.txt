@@ -48,6 +48,7 @@ RDATA
 RLAST
 RREADY
 RRESP
+runall
 RUSER
 RVALID
 sbct
@@ -72,5 +73,6 @@ xcrg
 xelab
 xsim
 xsimk
+xvhdl
 xvlog
 Zynq
