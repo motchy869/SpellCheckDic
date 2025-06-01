@@ -256,6 +256,7 @@ hbox
 highlightjs
 histappend
 hline
+hstring
 hyperref
 ifdef
 ifeval
