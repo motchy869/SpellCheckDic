@@ -1,3 +1,4 @@
 downto
 hstring
+ulogic
 VHDL

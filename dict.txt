@@ -79,6 +79,7 @@ INITIALDLY
 IOSTANDARD
 JESD
 JTAG
+Keymap
 Kintex
 Kria
 LFSR
@@ -135,6 +136,7 @@ STRM
 SYSREF
 Savart
 Seidel
+Sigasi
 Simulink
 SpiX
 Stratix
@@ -142,6 +144,7 @@ Synthesizable
 TDATA
 TREADY
 TVALID
+Talkback
 Terasic
 Thevenin
 UNUSEDPARAM
@@ -403,6 +406,7 @@ truept
 tspan
 twinx
 udline
+ulogic
 underbracket
 upperroman
 urandom
