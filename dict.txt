@@ -413,6 +413,7 @@ urandom
 uselib
 uvm_field_sarray_int
 uwire
+vdel
 vecs
 verif
 verilator

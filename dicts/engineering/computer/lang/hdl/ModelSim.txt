@@ -3,6 +3,7 @@ mfcu
 modelsim
 novopt
 reportprogress
+vdel
 vlib
 vlog
 vmap
