@@ -1,6 +1,7 @@
 covergroup
 coverpoint
 default_nettype
+defparam
 endcase
 endclass
 endclocking

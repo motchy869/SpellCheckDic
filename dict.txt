@@ -220,6 +220,7 @@ datatool
 deassert
 deassertion
 default_nettype
+defparam
 demux
 dircolors
 doctitle
