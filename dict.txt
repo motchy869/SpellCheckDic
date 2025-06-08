@@ -247,6 +247,7 @@ eqnums
 eqqcolon
 fclose
 fdisplay
+fflush
 fgrep
 fontsdir
 fopen
