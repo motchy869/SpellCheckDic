@@ -1,7 +1,9 @@
 Agilex
 AVMM
+AVST
 byteenable
 DECODEERROR
+maxfan
 megafunction
 nios
 readdata

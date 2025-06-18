@@ -24,6 +24,7 @@ ifdef
 ifndef
 inout
 isunknown
+itor
 localparam
 modport
 module
