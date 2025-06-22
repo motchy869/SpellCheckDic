@@ -42,6 +42,7 @@ BUFG
 BUSER
 BVALID
 Bezout
+Btrfs
 Butterworth
 CNTR
 Cassegrain
@@ -114,6 +115,7 @@ Miyauchi
 Multirate
 NCOM
 NICT
+NVME
 OFDM
 PALTEK
 PAPR
@@ -162,6 +164,7 @@ Talkback
 Terasic
 Thevenin
 UART
+UEFI
 UNUSEDPARAM
 UNUSEDSIGNAL
 UVM_NOCOMPARE
