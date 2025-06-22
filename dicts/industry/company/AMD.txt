@@ -42,6 +42,7 @@ LogiCORE
 MMCM
 MMCME
 petalinux
+Quadro
 RAMB18K
 RAMB36K
 RDATA
