@@ -218,6 +218,7 @@ bitblt
 bitboxes
 bmatrix
 boldsymbol
+btime
 byteenable
 bytefield
 checkwinsize
