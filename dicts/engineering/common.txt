@@ -3,6 +3,7 @@
 CNTR
 conv
 elems
+hier
 interp
 mult
 pswd

@@ -1,14 +1,17 @@
 accesswidth
+addrmap
 anded
 bitfields
 cpuif
 fanin
 fullalign
+hwif
 ltoh
 mementries
 memwidth
 peakrdl
 readback
+regblock
 regwidth
 singlepulse
 subword_size

@@ -195,6 +195,7 @@ Zynq
 abstol
 accesswidth
 aclr
+addrmap
 addtoreset
 adoc
 afterindentfalse
@@ -285,10 +286,12 @@ fwrite
 genvar
 ghostscript
 hbox
+hier
 highlightjs
 histappend
 hline
 hstring
+hwif
 hyperref
 ifdef
 ifeval
@@ -390,6 +393,7 @@ readdatavalid
 readlines
 readmemh
 reftext
+regblock
 regwidth
 reltol
 renewcommand
