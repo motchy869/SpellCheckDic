@@ -193,12 +193,14 @@ Xubuntu
 Zybo
 Zynq
 abstol
+accesswidth
 aclr
 addtoreset
 adoc
 afterindentfalse
 afterindenttrue
 amssymb
+anded
 arccos
 arcsin
 arctan
@@ -232,6 +234,7 @@ conv
 counterwithin
 covergroup
 coverpoint
+cpuif
 cref
 currfile
 darkpastelgreen
@@ -266,6 +269,7 @@ enduml
 enumx
 eqnums
 eqqcolon
+fanin
 fclose
 fdisplay
 fflush
@@ -275,6 +279,7 @@ fopen
 fplot
 framestyle
 fromroots
+fullalign
 fwrite
 genvar
 ghostscript
@@ -332,6 +337,8 @@ matplotlib
 maxfan
 maxiter
 megafunction
+mementries
+memwidth
 mfcu
 miniforge
 minipage
@@ -361,6 +368,7 @@ parens
 pdfauthor
 pdflatex
 pdfsubject
+peakrdl
 petalinux
 pipelinable
 pipenv
@@ -374,11 +382,13 @@ pydantic
 pygments
 pypi
 pythontex
+readback
 readdata
 readdatavalid
 readlines
 readmemh
 reftext
+regwidth
 reltol
 renewcommand
 reportprogress
@@ -404,12 +414,14 @@ sformat
 sformatf
 shadebox
 shortreal
+singlepulse
 siunitx
 splitdir
 startuml
 stepnumber
 struct
 subsubsection
+swwe
 sympy
 synctex
 systemverilog

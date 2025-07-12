@@ -1,0 +1,12 @@
+accesswidth
+anded
+cpuif
+fanin
+fullalign
+mementries
+memwidth
+peakrdl
+readback
+regwidth
+singlepulse
+swwe
