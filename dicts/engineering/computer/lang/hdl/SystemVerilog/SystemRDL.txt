@@ -1,12 +1,15 @@
 accesswidth
 anded
+bitfields
 cpuif
 fanin
 fullalign
+ltoh
 mementries
 memwidth
 peakrdl
 readback
 regwidth
 singlepulse
+subword_size
 swwe

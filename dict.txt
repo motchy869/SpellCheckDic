@@ -218,6 +218,7 @@ biblatex
 bibtex
 bitblt
 bitboxes
+bitfields
 bmatrix
 boldsymbol
 btime
@@ -322,6 +323,7 @@ listingsutf8
 localparam
 longtable
 loweralpha
+ltoh
 lualatex
 makeother
 mathbb
@@ -421,6 +423,7 @@ startuml
 stepnumber
 struct
 subsubsection
+subword_size
 swwe
 sympy
 synctex
