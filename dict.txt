@@ -212,6 +212,7 @@ arydshln
 asciidoctor
 autowidth
 auxout
+aximm
 axsim
 baseband
 beamer
@@ -326,6 +327,7 @@ listingsutf8
 localparam
 longtable
 loweralpha
+ltablex
 ltoh
 lualatex
 makeother
@@ -433,6 +435,7 @@ sympy
 synctex
 systemverilog
 tableblock
+tabularx
 tclbatch
 testplusarg
 texlive
