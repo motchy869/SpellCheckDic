@@ -396,6 +396,7 @@ readlines
 readmemh
 reftext
 regblock
+regfile
 regwidth
 reltol
 renewcommand

@@ -12,6 +12,7 @@ memwidth
 peakrdl
 readback
 regblock
+regfile
 regwidth
 singlepulse
 subword_size
