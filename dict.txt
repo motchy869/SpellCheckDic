@@ -363,6 +363,7 @@ newcommand
 newlabel
 newmodule
 nios
+nonsticky
 nonstopmode
 novopt
 numberfalse
@@ -428,6 +429,7 @@ siunitx
 splitdir
 startuml
 stepnumber
+stickybit
 struct
 subsubsection
 subword_size
@@ -480,6 +482,7 @@ vpasolve
 vsim
 waitrequest
 wcfg
+woclr
 writedata
 writeresponsevalid
 xcrg

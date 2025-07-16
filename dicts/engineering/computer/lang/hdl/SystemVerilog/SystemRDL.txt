@@ -9,11 +9,14 @@ hwif
 ltoh
 mementries
 memwidth
+nonsticky
 peakrdl
 readback
 regblock
 regfile
 regwidth
 singlepulse
+stickybit
 subword_size
 swwe
+woclr
