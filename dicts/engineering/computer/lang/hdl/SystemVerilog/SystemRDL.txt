@@ -6,6 +6,7 @@ cpuif
 fanin
 fullalign
 hwif
+hwset
 ltoh
 mementries
 memwidth
