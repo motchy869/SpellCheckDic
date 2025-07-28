@@ -286,6 +286,7 @@ fullalign
 fwrite
 genvar
 ghostscript
+gsudo
 hbox
 hier
 highlightjs
