@@ -324,6 +324,7 @@ lesspipe
 letltxmacro
 linecolor
 linenums
+lineskip
 linestyle
 listingsutf8
 localparam
@@ -369,6 +370,7 @@ nonsticky
 nonstopmode
 novopt
 numberfalse
+numbersep
 numbertrue
 numpy
 onehot

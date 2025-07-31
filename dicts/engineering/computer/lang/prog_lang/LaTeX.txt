@@ -28,6 +28,7 @@ jvlisting
 kpsewhich
 latexmk
 letltxmacro
+lineskip
 listingsutf8
 longtable
 ltablex
@@ -48,6 +49,7 @@ newcommand
 newlabel
 nonstopmode
 numberfalse
+numbersep
 numbertrue
 operatorname
 parens
