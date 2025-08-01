@@ -1,2 +1,5 @@
+clocken
 LUTRAM
 NCOM
+rden
+SCLR

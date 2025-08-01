@@ -1,3 +1,4 @@
+addressstall
 Agilex
 AVMM
 AVST
@@ -6,10 +7,12 @@ DECODEERROR
 lnsim
 maxfan
 megafunction
+megafunctions
 nios
 readdata
 readdatavalid
 Stratix
+syncram
 waitrequest
 writedata
 writeresponsevalid
