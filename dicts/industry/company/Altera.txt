@@ -3,6 +3,7 @@ AVMM
 AVST
 byteenable
 DECODEERROR
+lnsim
 maxfan
 megafunction
 nios

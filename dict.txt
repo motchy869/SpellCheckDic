@@ -84,6 +84,7 @@ IMRR
 INITIALDLY
 IOSTANDARD
 IRDA
+IWFA
 JESD
 JTAG
 Keymap
@@ -158,6 +159,7 @@ SpiX
 Stratix
 Synthesizable
 TDATA
+TFNPC
 TREADY
 TVALID
 Talkback
@@ -323,10 +325,12 @@ latexmk
 lesspipe
 letltxmacro
 linecolor
+linedebug
 linenums
 lineskip
 linestyle
 listingsutf8
+lnsim
 localparam
 longtable
 loweralpha
@@ -369,6 +373,7 @@ nios
 nonsticky
 nonstopmode
 novopt
+nowarn
 numberfalse
 numbersep
 numbertrue
@@ -399,6 +404,7 @@ readdata
 readdatavalid
 readlines
 readmemh
+reflib
 reftext
 regblock
 regfile
@@ -429,6 +435,7 @@ sformat
 sformatf
 shadebox
 shortreal
+simvision
 singlepulse
 siunitx
 splitdir
@@ -498,6 +505,7 @@ xlim
 xlims
 xorg
 xrefstyle
+xrun
 xscale
 xsim
 xsimk

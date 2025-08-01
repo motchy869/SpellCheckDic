@@ -1,1 +1,8 @@
+IWFA
+linedebug
+nowarn
+reflib
+simvision
+TFNPC
 Xcelium
+xrun
