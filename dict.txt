@@ -127,6 +127,7 @@ Parseval
 Phasor
 QPSK
 QSFP
+QSIM
 QSPI
 Quadro
 RAMB18K
