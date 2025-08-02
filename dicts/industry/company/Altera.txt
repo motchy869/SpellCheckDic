@@ -11,6 +11,7 @@ megafunctions
 nios
 readdata
 readdatavalid
+sopc
 Stratix
 syncram
 waitrequest

@@ -186,6 +186,7 @@ Verts
 Virtex
 Vivado
 WDATA
+WINEARCH
 WLAST
 WREADY
 WSTRB
@@ -229,6 +230,7 @@ bitfields
 bmatrix
 boldsymbol
 btime
+byobu
 byteenable
 bytefield
 checkwinsize
@@ -444,6 +446,7 @@ shortreal
 simvision
 singlepulse
 siunitx
+sopc
 splitdir
 startuml
 stepnumber
