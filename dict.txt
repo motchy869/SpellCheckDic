@@ -49,6 +49,7 @@ Cassegrain
 Cayley
 Chebyshev
 DECERR
+DECLFILENAME
 DECODEERROR
 DIMM
 DPDK
@@ -296,6 +297,7 @@ genvar
 ghostscript
 gsudo
 hbox
+hffff
 hier
 highlightjs
 histappend
