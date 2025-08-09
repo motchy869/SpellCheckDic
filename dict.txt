@@ -44,6 +44,7 @@ BVALID
 Bezout
 Btrfs
 Butterworth
+CMPCONST
 CNTR
 Cassegrain
 Cayley
