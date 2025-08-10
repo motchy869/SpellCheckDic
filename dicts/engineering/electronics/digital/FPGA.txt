@@ -2,4 +2,5 @@ clocken
 LUTRAM
 NCOM
 rden
+SCLEAR
 SCLR
