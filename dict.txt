@@ -105,6 +105,7 @@ MIMO
 MIPI
 MMCM
 MMCME
+MMIC
 MOSI
 MRAM
 MTBF
@@ -464,6 +465,7 @@ syncram
 synctex
 systemverilog
 tableblock
+tablefootnote
 tabularx
 tclbatch
 testplusarg
