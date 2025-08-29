@@ -27,6 +27,7 @@ jsbook
 jvlisting
 kpsewhich
 latexmk
+lbrack
 letltxmacro
 lineskip
 listingsutf8
@@ -57,6 +58,7 @@ pdfauthor
 pdflatex
 pdfsubject
 pythontex
+rbrack
 renewcommand
 rowhead
 schapter

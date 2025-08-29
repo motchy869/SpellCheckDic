@@ -45,6 +45,7 @@ Bezout
 Btrfs
 Butterworth
 CASEINCOMPLETE
+CHUNKIZER
 CMPCONST
 CNTR
 Cassegrain
@@ -168,6 +169,7 @@ Stratix
 Synthesizable
 TDATA
 TFNPC
+TIMESCALEMOD
 TREADY
 TVALID
 Talkback
@@ -335,6 +337,7 @@ kbit
 kpsewhich
 latexmath
 latexmk
+lbrack
 lesspipe
 letltxmacro
 linecolor
@@ -413,6 +416,7 @@ pydantic
 pygments
 pypi
 pythontex
+rbrack
 rden
 readback
 readdata

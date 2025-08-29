@@ -1,5 +1,6 @@
 # abbreviations
 ## control
+CHUNKIZER
 CNTR
 conv
 elems
