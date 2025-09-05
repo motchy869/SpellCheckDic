@@ -238,6 +238,7 @@ bitfields
 bmatrix
 boldsymbol
 btime
+burstcount
 byobu
 byteenable
 bytefield
@@ -289,6 +290,7 @@ enumx
 eqnums
 eqqcolon
 fanin
+fanout
 fclose
 fdisplay
 fflush

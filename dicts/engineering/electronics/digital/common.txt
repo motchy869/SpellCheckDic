@@ -4,6 +4,7 @@ deassertion
 demux
 DIMM
 DPRAM
+fanout
 FBGA
 FWFT
 Gbps

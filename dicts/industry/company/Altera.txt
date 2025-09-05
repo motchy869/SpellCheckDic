@@ -2,6 +2,7 @@ addressstall
 Agilex
 AVMM
 AVST
+burstcount
 byteenable
 DECODEERROR
 lnsim
