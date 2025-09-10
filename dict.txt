@@ -383,6 +383,7 @@ modport
 module
 mult
 multirow
+ncsim
 ndarray
 negedge
 nettype
@@ -468,6 +469,7 @@ stickybit
 struct
 subsubsection
 subword_size
+svwf
 swwe
 sympy
 syncram

@@ -1,8 +1,10 @@
 IWFA
 linedebug
+ncsim
 nowarn
 reflib
 simvision
+svwf
 TFNPC
 Xcelium
 xrun
