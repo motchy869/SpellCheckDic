@@ -20,6 +20,7 @@ fflush
 fopen
 fwrite
 genvar
+getc
 ifdef
 ifndef
 inout
@@ -32,6 +33,7 @@ negedge
 nettype
 onehot
 posedge
+readmemb
 readmemh
 sformat
 sformatf

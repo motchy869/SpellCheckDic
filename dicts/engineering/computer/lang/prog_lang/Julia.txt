@@ -18,6 +18,10 @@ linestyle
 maxiter
 minorgrid
 outertopleft
+
+# Random
+randperm
+
 seriestype
 savefig
 twinx

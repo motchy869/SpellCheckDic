@@ -304,6 +304,7 @@ fromroots
 fullalign
 fwrite
 genvar
+getc
 ghostscript
 gsudo
 hbox
@@ -420,12 +421,14 @@ pydantic
 pygments
 pypi
 pythontex
+randperm
 rbrack
 rden
 readback
 readdata
 readdatavalid
 readlines
+readmemb
 readmemh
 reflib
 reftext
