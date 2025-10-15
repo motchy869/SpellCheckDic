@@ -4,6 +4,7 @@ deassertion
 demux
 DIMM
 DPRAM
+EEPROM
 fanout
 FBGA
 FWFT

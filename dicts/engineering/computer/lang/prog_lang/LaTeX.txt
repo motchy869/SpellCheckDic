@@ -9,6 +9,7 @@ bmatrix
 boldsymbol
 bitboxes
 bytefield
+cleardoublepage
 cleveref
 coloneqq
 counterwithin
@@ -54,6 +55,7 @@ numbersep
 numbertrue
 operatorname
 parens
+patchcmd
 pdfauthor
 pdflatex
 pdfsubject
@@ -75,6 +77,7 @@ texlive
 texmf
 textbackslash
 textrm
+thispagestyle
 tikz
 tlmgr
 topnum

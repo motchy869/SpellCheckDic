@@ -62,6 +62,7 @@ DTFT
 Digilent
 Diplexer
 Docomo
+EEPROM
 EMIF
 ENBW
 ENOB
@@ -112,6 +113,7 @@ MMIC
 MOSI
 MRAM
 MTBF
+MULTIDRIVEN
 MULTITOP
 Maclaurin
 Matroid
@@ -123,6 +125,7 @@ Multirate
 NCOM
 NICT
 NVME
+OCXO
 OFDM
 PALTEK
 PAPR
@@ -244,6 +247,7 @@ byobu
 byteenable
 bytefield
 checkwinsize
+cleardoublepage
 cleveref
 clken
 clocken
@@ -404,6 +408,7 @@ onehot
 operatorname
 outertopleft
 parens
+patchcmd
 pdfauthor
 pdflatex
 pdfsubject
@@ -487,6 +492,7 @@ texlive
 texmf
 textbackslash
 textrm
+thispagestyle
 tikz
 timeformat
 timeprecision
