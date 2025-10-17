@@ -1,2 +1,4 @@
 byobu
+cloc
+getopt
 inkscape

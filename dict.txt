@@ -85,6 +85,7 @@ Hann
 IDFT
 IDTFT
 IFFT
+IMPLICITSTATIC
 IMRR
 INCABSPATH
 INITIALDLY
@@ -250,6 +251,7 @@ checkwinsize
 cleardoublepage
 cleveref
 clken
+cloc
 clocken
 codegen
 coeff
@@ -309,6 +311,7 @@ fullalign
 fwrite
 genvar
 getc
+getopt
 ghostscript
 gsudo
 hbox
