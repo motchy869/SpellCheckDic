@@ -125,6 +125,7 @@ Miyauchi
 Multirate
 NCOM
 NICT
+NONSTD
 NVME
 OCXO
 OFDM
@@ -158,6 +159,7 @@ SERDES
 SFDR
 SIGSEGV
 SLVERR
+SPECIFYIGN
 SRAM
 SSPD
 SSTL
@@ -199,6 +201,7 @@ Verts
 Virtex
 Vivado
 WDATA
+WIDTHEXPAND
 WINEARCH
 WLAST
 WREADY
@@ -401,6 +404,7 @@ newmodule
 nios
 nonsticky
 nonstopmode
+noprune
 novopt
 nowarn
 numberfalse

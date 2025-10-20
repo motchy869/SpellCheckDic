@@ -10,6 +10,7 @@ maxfan
 megafunction
 megafunctions
 nios
+noprune
 readdata
 readdatavalid
 sopc
