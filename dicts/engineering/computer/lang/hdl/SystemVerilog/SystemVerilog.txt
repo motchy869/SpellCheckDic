@@ -16,7 +16,9 @@ endsequence
 endtask
 fclose
 fdisplay
+feof
 fflush
+fgets
 fopen
 fwrite
 genvar

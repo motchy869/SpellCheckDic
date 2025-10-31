@@ -303,7 +303,9 @@ fanin
 fanout
 fclose
 fdisplay
+feof
 fflush
+fgets
 fgrep
 fontsdir
 fopen
