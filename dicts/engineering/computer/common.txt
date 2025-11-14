@@ -2,5 +2,6 @@ bitblt
 hffff
 kbit
 Keymap
+MMIO
 NVME
 VRAM
