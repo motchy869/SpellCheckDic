@@ -483,6 +483,7 @@ singlepulse
 siunitx
 sopc
 splitdir
+sscanf
 startuml
 stepnumber
 stickybit
