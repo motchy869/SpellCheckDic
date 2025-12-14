@@ -11,6 +11,7 @@ megafunction
 megafunctions
 nios
 noprune
+ramstyle
 readdata
 readdatavalid
 sopc
