@@ -491,6 +491,7 @@ stickybit
 struct
 subsubsection
 subword_size
+svjson
 svwf
 swwe
 sympy
