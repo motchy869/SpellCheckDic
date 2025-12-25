@@ -492,6 +492,7 @@ struct
 subsubsection
 subword_size
 svjson
+svunit
 svwf
 swwe
 sympy
