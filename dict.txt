@@ -51,6 +51,7 @@ CNTR
 Cassegrain
 Cayley
 Chebyshev
+Civita
 DECERR
 DECLFILENAME
 DECODEERROR
