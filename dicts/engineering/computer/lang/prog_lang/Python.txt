@@ -2,6 +2,7 @@ cython
 dataclass
 ipynb
 ipython
+lineterminator
 matplotlib
 miniforge
 mypy

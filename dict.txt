@@ -368,6 +368,7 @@ linedebug
 linenums
 lineskip
 linestyle
+lineterminator
 listingsutf8
 lnsim
 localparam
@@ -572,9 +573,11 @@ xsim
 xsimk
 xvhdl
 xvlog
+yfinance
 yflip
 ylabel
 ylim
 ylims
 yscale
 zerolines
+zoneinfo
