@@ -1,11 +1,16 @@
+cython
 dataclass
 ipynb
+ipython
 matplotlib
 miniforge
+mypy
 ndarray
 numpy
 pipenv
+pycache
 pydantic
+pyenv
 pygments
 pypi
 scipy
@@ -14,3 +19,4 @@ juliacall
 newmodule
 seval
 sympy
+venv

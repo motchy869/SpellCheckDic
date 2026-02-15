@@ -272,6 +272,7 @@ coverpoint
 cpuif
 cref
 currfile
+cython
 darkpastelgreen
 dataclass
 datatool
@@ -347,6 +348,7 @@ inkscape
 inout
 interp
 ipynb
+ipython
 isunknown
 itor
 journalctl
@@ -401,6 +403,7 @@ modport
 module
 mult
 multirow
+mypy
 ncsim
 ndarray
 negedge
@@ -437,7 +440,9 @@ ppoll
 println
 pswd
 ptrs
+pycache
 pydantic
+pyenv
 pygments
 pypi
 pythontex
@@ -534,6 +539,7 @@ uvm_field_sarray_int
 uwire
 vdel
 vecs
+venv
 verif
 verilator
 verilog
