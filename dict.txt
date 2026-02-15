@@ -423,6 +423,7 @@ operatorname
 outertopleft
 parens
 patchcmd
+pathlib
 pdfauthor
 pdflatex
 pdfsubject
