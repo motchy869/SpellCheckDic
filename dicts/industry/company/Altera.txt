@@ -14,6 +14,7 @@ noprune
 ramstyle
 readdata
 readdatavalid
+rtlsdc
 sopc
 Stratix
 syncram
