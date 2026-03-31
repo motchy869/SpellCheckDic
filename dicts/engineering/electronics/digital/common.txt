@@ -12,6 +12,7 @@ Gbps
 GPIO
 Gsps
 LFSR
+LTSSM
 Mbps
 MRAM
 PRBS

@@ -5,6 +5,7 @@ Chebyshev
 Civita
 Gantt
 Hann
+Karatsuba
 Maclaurin
 Miyauchi
 Parseval

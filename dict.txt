@@ -95,11 +95,13 @@ IRDA
 IWFA
 JESD
 JTAG
+Karatsuba
 Keymap
 Kintex
 Kria
 LFSR
 LPDDR
+LTSSM
 LUTRAM
 LVCMOS
 LVDS
@@ -136,6 +138,7 @@ PAPR
 PINCONNECTEMPTY
 POSIX
 PRBS
+PROCASSINIT
 Parseval
 Phasor
 QPSK
@@ -313,6 +316,7 @@ feof
 fflush
 fgets
 fgrep
+findmaxima
 fontsdir
 fopen
 fplot
