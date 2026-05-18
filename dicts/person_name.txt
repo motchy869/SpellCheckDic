@@ -3,13 +3,16 @@ Butterworth
 Cassegrain
 Chebyshev
 Civita
+Durbin
 Gantt
 Hann
 Karatsuba
+Levinson
 Maclaurin
 Miyauchi
 Parseval
 Savart
+Schwarz
 Seidel
 Thevenin
 Vandermonde

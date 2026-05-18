@@ -63,6 +63,7 @@ DTFT
 Digilent
 Diplexer
 Docomo
+Durbin
 EEPROM
 EMIF
 ENBW
@@ -106,6 +107,7 @@ LUTRAM
 LVCMOS
 LVDS
 LVTTL
+Levinson
 LogiCORE
 MACNICA
 MDIO
@@ -175,6 +177,7 @@ STRM
 SVTEST
 SYSREF
 Savart
+Schwarz
 Seidel
 Sigasi
 Simulink
