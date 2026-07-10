@@ -480,6 +480,7 @@ revnumber
 revremark
 rowhead
 rtlsdc
+rtoi
 runall
 samp
 samps

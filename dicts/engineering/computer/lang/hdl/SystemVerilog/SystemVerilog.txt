@@ -37,6 +37,7 @@ onehot
 posedge
 readmemb
 readmemh
+rtoi
 sformat
 sformatf
 shortreal
