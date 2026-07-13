@@ -15,6 +15,7 @@ LFSR
 LTSSM
 Mbps
 MRAM
+netlist
 PRBS
 SERDES
 SRAM
