@@ -1,3 +1,4 @@
+casex
 covergroup
 coverpoint
 default_nettype

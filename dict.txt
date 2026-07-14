@@ -263,6 +263,7 @@ burstcount
 byobu
 byteenable
 bytefield
+casex
 checkwinsize
 cleardoublepage
 cleveref
