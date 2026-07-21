@@ -16,3 +16,4 @@ Schwarz
 Seidel
 Thevenin
 Vandermonde
+Yarlagadda
