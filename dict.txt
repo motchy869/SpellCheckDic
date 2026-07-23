@@ -143,6 +143,7 @@ POSIX
 PRBS
 PROCASSINIT
 Parseval
+Penrose
 Phasor
 QPSK
 QSFP
