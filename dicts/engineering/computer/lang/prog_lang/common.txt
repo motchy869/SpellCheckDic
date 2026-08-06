@@ -1,2 +1,3 @@
+rodata
 upcasting
 vtable

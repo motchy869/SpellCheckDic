@@ -484,6 +484,7 @@ retiming
 revdate
 revnumber
 revremark
+rodata
 rowhead
 rtlsdc
 rtoi
