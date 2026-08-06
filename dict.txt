@@ -415,6 +415,7 @@ mktexlsr
 modelsim
 modport
 module
+mpsc
 mult
 multirow
 mypy
@@ -553,6 +554,7 @@ upcasting
 upperroman
 urandom
 uselib
+usize
 uvm_field_sarray_int
 uwire
 vdel
