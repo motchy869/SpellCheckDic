@@ -549,6 +549,7 @@ twinx
 udline
 ulogic
 underbracket
+upcasting
 upperroman
 urandom
 uselib
@@ -570,6 +571,7 @@ vopt
 voptargs
 vpasolve
 vsim
+vtable
 waitrequest
 wcfg
 woclr
