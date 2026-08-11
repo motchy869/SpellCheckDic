@@ -23,4 +23,5 @@ juliacall
 newmodule
 seval
 sympy
+timespec
 venv

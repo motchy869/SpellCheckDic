@@ -543,6 +543,7 @@ thispagestyle
 tikz
 timeformat
 timeprecision
+timespec
 timeunit
 tlmgr
 toclevels
