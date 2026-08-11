@@ -365,6 +365,7 @@ ipython
 isunknown
 itor
 journalctl
+jpholiday
 jsbook
 juliacall
 juliaup
@@ -429,6 +430,7 @@ newcommand
 newlabel
 newmodule
 nios
+nohup
 nonsticky
 nonstopmode
 noprune
@@ -462,6 +464,7 @@ pydantic
 pyenv
 pygments
 pypi
+pythonpath
 pythontex
 ramstyle
 randperm
