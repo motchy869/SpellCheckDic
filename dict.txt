@@ -459,6 +459,7 @@ ppoll
 println
 pswd
 ptrs
+pyautogui
 pycache
 pydantic
 pyenv

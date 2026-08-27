@@ -3,13 +3,9 @@ dataclass
 docstring
 ipynb
 ipython
-jpholiday
 lineterminator
-matplotlib
 miniforge
 mypy
-ndarray
-numpy
 pipenv
 pycache
 pydantic
@@ -17,11 +13,7 @@ pyenv
 pygments
 pypi
 pythonpath
-scipy
-#JuliaCall
-juliacall
 newmodule
 seval
-sympy
 timespec
 venv

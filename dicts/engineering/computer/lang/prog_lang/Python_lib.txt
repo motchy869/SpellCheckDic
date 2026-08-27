@@ -1,3 +1,11 @@
+jpholiday
+juliacall
+matplotlib
+ndarray
+numpy
 pathlib
+pyautogui
+scipy
+sympy
 yfinance
 zoneinfo
