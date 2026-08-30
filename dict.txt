@@ -224,6 +224,7 @@ WUSER
 WVALID
 XLOOKUP
 Xcelium
+Xlib
 Xubuntu
 Yarlagadda
 Zybo
