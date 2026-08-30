@@ -593,6 +593,7 @@ xfer
 xlabel
 xlim
 xlims
+xobject
 xorg
 xrefstyle
 xrun

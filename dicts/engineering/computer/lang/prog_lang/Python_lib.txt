@@ -9,4 +9,5 @@ scipy
 sympy
 yfinance
 zoneinfo
+xobject
 Xlib
