@@ -335,6 +335,7 @@ fromroots
 fullalign
 fwrite
 genvar
+getbbox
 getc
 getopt
 ghostscript
