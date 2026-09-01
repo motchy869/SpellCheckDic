@@ -1,4 +1,5 @@
 getbbox
+imread
 jpholiday
 juliacall
 matplotlib
@@ -8,7 +9,9 @@ pathlib
 pyautogui
 scipy
 sympy
+tessedit
 yfinance
 zoneinfo
 xobject
+Tesseract
 Xlib

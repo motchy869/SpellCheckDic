@@ -10,6 +10,7 @@ Karatsuba
 Levinson
 Maclaurin
 Miyauchi
+Otsu
 Parseval
 Penrose
 Savart

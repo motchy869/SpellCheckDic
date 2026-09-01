@@ -136,6 +136,7 @@ NONSTD
 NVME
 OCXO
 OFDM
+Otsu
 PALTEK
 PAPR
 PINCONNECTEMPTY
@@ -194,6 +195,7 @@ TREADY
 TVALID
 Talkback
 Terasic
+Tesseract
 Thevenin
 UART
 UEFI
@@ -357,6 +359,7 @@ ifplatform
 ifstar
 ignoreboth
 imageblock
+imread
 incdir
 infty
 inkscape
@@ -537,6 +540,7 @@ tableblock
 tablefootnote
 tabularx
 tclbatch
+tessedit
 testplusarg
 texlive
 texmf
