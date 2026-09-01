@@ -1,5 +1,6 @@
 dpkg
 journalctl
+readlink
 xorg
 Btrfs
 DPDK

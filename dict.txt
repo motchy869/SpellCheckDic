@@ -484,6 +484,7 @@ readback
 readdata
 readdatavalid
 readlines
+readlink
 readmemb
 readmemh
 reflib
