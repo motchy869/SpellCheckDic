@@ -84,4 +84,6 @@ topnum
 truemm
 udline
 underbracket
+TEXDIR
+TEXMFLOCAL
 Verts

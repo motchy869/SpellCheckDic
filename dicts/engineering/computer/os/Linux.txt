@@ -1,6 +1,8 @@
-Btrfs
-DPDK
 dpkg
 journalctl
 xorg
+Btrfs
+DPDK
+INFOPATH
+MANPATH
 Xubuntu
