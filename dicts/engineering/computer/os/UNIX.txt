@@ -1,3 +1,4 @@
-POSIX
 ppoll
+EUID
+POSIX
 SIGSEGV
