@@ -343,6 +343,7 @@ fwrite
 genvar
 getbbox
 getc
+geteuid
 getopt
 ghostscript
 gsudo

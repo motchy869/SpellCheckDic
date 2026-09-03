@@ -1,4 +1,5 @@
 getbbox
+geteuid
 imread
 jpholiday
 juliacall
