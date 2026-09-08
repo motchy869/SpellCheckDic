@@ -477,6 +477,7 @@ pyautogui
 pycache
 pydantic
 pydatetime
+pydocstyle
 pyenv
 pygments
 pypi
