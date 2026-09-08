@@ -473,6 +473,7 @@ ptrs
 pyautogui
 pycache
 pydantic
+pydatetime
 pyenv
 pygments
 pypi
