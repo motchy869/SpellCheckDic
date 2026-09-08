@@ -1,8 +1,10 @@
+asctime
 getbbox
 geteuid
 imread
 jpholiday
 juliacall
+levelname
 matplotlib
 ndarray
 numpy
@@ -12,6 +14,7 @@ pydatetime
 scipy
 sympy
 tessedit
+timedelta
 yfinance
 zoneinfo
 xobject

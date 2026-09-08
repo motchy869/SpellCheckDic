@@ -255,6 +255,7 @@ argmin
 arrayfun
 arydshln
 asciidoctor
+asctime
 autowidth
 auxout
 aximm
@@ -388,6 +389,7 @@ latexmk
 lbrack
 lesspipe
 letltxmacro
+levelname
 lindex
 linecolor
 linedebug
@@ -556,6 +558,7 @@ textbackslash
 textrm
 thispagestyle
 tikz
+timedelta
 timeformat
 timeprecision
 timespec
