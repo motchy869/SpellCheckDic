@@ -464,6 +464,7 @@ pdflatex
 pdfsubject
 peakrdl
 petalinux
+pgrep
 pipelinable
 pipenv
 plantuml
