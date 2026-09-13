@@ -4,3 +4,4 @@ ghostscript
 hbox
 makeother
 truept
+xdef

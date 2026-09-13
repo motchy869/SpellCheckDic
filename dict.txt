@@ -558,6 +558,7 @@ texlive
 texmf
 textbackslash
 textrm
+thefnmark
 thispagestyle
 tikz
 timedelta
@@ -606,6 +607,7 @@ woclr
 writedata
 writeresponsevalid
 xcrg
+xdef
 xelab
 xfer
 xlabel
