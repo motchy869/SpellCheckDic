@@ -1,0 +1,11 @@
+bibtex
+ghostscript
+kpsewhich
+latexmk
+mathjax
+mktexlsr
+texlive
+texmf
+tlmgr
+TEXDIR
+TEXMFLOCAL

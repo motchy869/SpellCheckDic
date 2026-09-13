@@ -1,7 +1,12 @@
-auxout
-addtoreset
-ghostscript
 hbox
-makeother
+infty
+lbrack
+lineskip
+mathop
+mathrel
+nonstopmode
+rbrack
+synctex
 truept
+truemm
 xdef
