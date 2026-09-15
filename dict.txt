@@ -513,6 +513,7 @@ rodata
 rowhead
 rtlsdc
 rtoi
+rubygems
 runall
 samp
 samps
