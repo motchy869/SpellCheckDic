@@ -303,6 +303,7 @@ defparam
 demux
 dircolors
 docinfo
+docname
 docstring
 doctitle
 documentclass
