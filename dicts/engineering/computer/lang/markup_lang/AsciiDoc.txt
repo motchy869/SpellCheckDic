@@ -1,6 +1,7 @@
 adoc
 asciidoctor
 autowidth
+docinfo
 doctitle
 eqnums
 fontsdir

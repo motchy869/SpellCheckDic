@@ -302,6 +302,7 @@ default_nettype
 defparam
 demux
 dircolors
+docinfo
 docstring
 doctitle
 documentclass
@@ -342,6 +343,8 @@ framestyle
 fromroots
 fullalign
 fwrite
+gemhome
+gemrc
 genvar
 getbbox
 getc
