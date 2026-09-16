@@ -412,6 +412,7 @@ ltoh
 lualatex
 makeother
 mathbb
+mathbbm
 mathcal
 mathjax
 mathop
@@ -476,6 +477,7 @@ plantuml
 posedge
 ppoll
 println
+providecommand
 pswd
 ptrs
 pyautogui

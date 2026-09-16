@@ -34,6 +34,7 @@ ltablex
 lualatex
 makeother
 mathbb
+mathbbm
 mathcal
 mathoperator
 mathring
@@ -52,6 +53,7 @@ patchcmd
 pdfauthor
 pdflatex
 pdfsubject
+providecommand
 pythontex
 renewcommand
 rowhead
