@@ -18,6 +18,7 @@ cref
 currfile
 darkpastelgreen
 datatool
+delimsize
 documentclass
 dotsc
 eqqcolon

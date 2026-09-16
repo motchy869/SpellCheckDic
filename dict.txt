@@ -300,6 +300,7 @@ deassert
 deassertion
 default_nettype
 defparam
+delimsize
 demux
 dircolors
 docinfo
