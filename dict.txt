@@ -264,6 +264,7 @@ baseband
 beamer
 biblatex
 bibtex
+binom
 bitblt
 bitboxes
 bitfields

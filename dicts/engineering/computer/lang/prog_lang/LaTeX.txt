@@ -6,6 +6,7 @@ arydshln
 auxout
 beamer
 biblatex
+binom
 bmatrix
 boldsymbol
 bitboxes
