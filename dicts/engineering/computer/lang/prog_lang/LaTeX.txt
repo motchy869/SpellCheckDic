@@ -59,6 +59,7 @@ pythontex
 renewcommand
 rowhead
 schapter
+scriptsize
 seccntformat
 shadebox
 siunitx
@@ -68,6 +69,7 @@ subsubsection
 tablefootnote
 tabularx
 textbackslash
+textcircled
 textrm
 thefnmark
 thispagestyle

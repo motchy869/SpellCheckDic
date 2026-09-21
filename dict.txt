@@ -526,6 +526,7 @@ savefig
 sbct
 schapter
 scipy
+scriptsize
 seccntformat
 sectanchors
 sectids
@@ -566,6 +567,7 @@ testplusarg
 texlive
 texmf
 textbackslash
+textcircled
 textrm
 thefnmark
 thispagestyle
