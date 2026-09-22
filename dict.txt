@@ -245,6 +245,7 @@ addtoreset
 adoc
 afterindentfalse
 afterindenttrue
+amsfonts
 amssymb
 anded
 arccos

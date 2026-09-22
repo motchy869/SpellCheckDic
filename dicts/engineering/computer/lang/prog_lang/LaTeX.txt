@@ -1,6 +1,7 @@
 addtoreset
 afterindentfalse
 afterindenttrue
+amsfonts
 amssymb
 arydshln
 auxout
