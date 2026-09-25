@@ -1,1 +1,15 @@
+envrc
+ipython
+mypy
+pipenv
+pipfile
+pybuilder
+pycache
 pydocstyle
+pyenv
+pyflow
+pypirc
+pytype
+spyder
+spyderproject
+venv

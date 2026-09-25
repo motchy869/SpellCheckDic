@@ -12,6 +12,7 @@ pathlib
 pyautogui
 pydatetime
 scipy
+scrapy
 sympy
 tessedit
 timedelta

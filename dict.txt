@@ -329,6 +329,7 @@ endsequence
 endtask
 enduml
 enumx
+envrc
 eqnums
 eqqcolon
 fanin
@@ -380,6 +381,7 @@ inkscape
 inout
 interp
 ipynb
+ipython
 ipython
 isunknown
 itor
@@ -442,6 +444,7 @@ mpsc
 mult
 multirow
 mypy
+mypy
 ncsim
 ndarray
 negedge
@@ -475,6 +478,8 @@ petalinux
 pgrep
 pipelinable
 pipenv
+pipenv
+pipfile
 plantuml
 posedge
 ppoll
@@ -483,15 +488,21 @@ providecommand
 pswd
 ptrs
 pyautogui
+pybuilder
+pycache
 pycache
 pydantic
 pydatetime
 pydocstyle
 pyenv
+pyenv
+pyflow
 pygments
 pypi
+pypirc
 pythonpath
 pythontex
+pytype
 ramstyle
 randperm
 rbrack
@@ -527,6 +538,7 @@ savefig
 sbct
 schapter
 scipy
+scrapy
 scriptsize
 seccntformat
 sectanchors
@@ -544,6 +556,8 @@ singlepulse
 siunitx
 sopc
 splitdir
+spyder
+spyderproject
 sscanf
 startuml
 stepnumber
@@ -598,6 +612,7 @@ uvm_field_sarray_int
 uwire
 vdel
 vecs
+venv
 venv
 verif
 verilator
