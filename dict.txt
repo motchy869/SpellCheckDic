@@ -81,6 +81,7 @@ GOPATH
 GPIO
 Gantt
 Gbps
+Grassmann
 Gsps
 HSSI
 Hadamard
@@ -578,6 +579,7 @@ tablefootnote
 tabularx
 tclbatch
 tessedit
+testpaths
 testplusarg
 texlive
 texmf

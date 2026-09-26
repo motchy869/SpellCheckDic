@@ -12,4 +12,5 @@ pypirc
 pytype
 spyder
 spyderproject
+testpaths
 venv
