@@ -578,6 +578,7 @@ tablefootnote
 tabularx
 tclbatch
 tessedit
+testpaths
 testplusarg
 texlive
 texmf
