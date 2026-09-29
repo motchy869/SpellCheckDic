@@ -291,6 +291,7 @@ clocken
 codegen
 coeff
 coeffs
+coloneq
 coloneqq
 conv
 counterwithin

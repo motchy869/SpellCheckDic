@@ -16,6 +16,7 @@ bitboxes
 bytefield
 cleardoublepage
 cleveref
+coloneq
 coloneqq
 counterwithin
 cref
