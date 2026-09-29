@@ -11,6 +11,7 @@ biblatex
 binom
 bmatrix
 boldsymbol
+booktabs
 bitboxes
 bytefield
 cleardoublepage

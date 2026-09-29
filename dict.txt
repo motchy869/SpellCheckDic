@@ -273,6 +273,7 @@ bitboxes
 bitfields
 bmatrix
 boldsymbol
+booktabs
 btime
 burstcount
 byobu
@@ -280,6 +281,8 @@ byteenable
 bytefield
 casex
 checkwinsize
+chktex
+chktexrc
 cleardoublepage
 cleveref
 clken

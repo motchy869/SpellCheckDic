@@ -1,4 +1,6 @@
 bibtex
+chktex
+chktexrc
 ghostscript
 kpsewhich
 latexmk
