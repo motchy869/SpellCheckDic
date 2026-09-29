@@ -264,6 +264,7 @@ aximm
 axsim
 baseband
 beamer
+bibitem
 biblatex
 bibtex
 binom
@@ -295,6 +296,7 @@ coverpoint
 cpuif
 cref
 currfile
+currfiledir
 cython
 darkpastelgreen
 dataclass
@@ -370,6 +372,7 @@ hwset
 hyperref
 ifdef
 ifeval
+ifluatex
 ifndef
 ifplatform
 ifstar
@@ -547,6 +550,7 @@ sectids
 sectnumlevels
 sectnums
 seriestype
+setminus
 seval
 sformat
 sformatf
@@ -583,6 +587,7 @@ testpaths
 testplusarg
 texlive
 texmf
+texorpdfstring
 textbackslash
 textcircled
 textrm

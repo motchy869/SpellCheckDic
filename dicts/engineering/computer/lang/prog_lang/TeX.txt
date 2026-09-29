@@ -6,6 +6,7 @@ mathop
 mathrel
 nonstopmode
 rbrack
+setminus
 synctex
 truept
 truemm

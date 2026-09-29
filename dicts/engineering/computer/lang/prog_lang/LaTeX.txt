@@ -6,6 +6,7 @@ amssymb
 arydshln
 auxout
 beamer
+bibitem
 biblatex
 binom
 bmatrix
@@ -18,6 +19,7 @@ coloneqq
 counterwithin
 cref
 currfile
+currfiledir
 darkpastelgreen
 datatool
 delimsize
@@ -25,6 +27,7 @@ documentclass
 dotsc
 eqqcolon
 hyperref
+ifluatex
 ifplatform
 ifstar
 jsbook
@@ -69,6 +72,7 @@ stepnumber
 subsubsection
 tablefootnote
 tabularx
+texorpdfstring
 textbackslash
 textcircled
 textrm
