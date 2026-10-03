@@ -2,6 +2,8 @@ checkwinsize
 dircolors
 fgrep
 ignoreboth
+ignoredups
+ignorespace
 histappend
 lesspipe
 nohup

@@ -382,6 +382,8 @@ ifndef
 ifplatform
 ifstar
 ignoreboth
+ignoredups
+ignorespace
 imageblock
 imread
 incdir
