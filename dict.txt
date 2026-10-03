@@ -320,6 +320,7 @@ documentclass
 dotsc
 downto
 dpkg
+dunder
 elab
 elems
 endcase
