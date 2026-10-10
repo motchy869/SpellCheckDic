@@ -28,6 +28,7 @@ randperm
 
 seriestype
 savefig
+sprintf
 twinx
 vline
 xlims

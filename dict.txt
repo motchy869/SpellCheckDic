@@ -568,6 +568,7 @@ singlepulse
 siunitx
 sopc
 splitdir
+sprintf
 spyder
 spyderproject
 sscanf
