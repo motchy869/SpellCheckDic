@@ -14,6 +14,7 @@ Miyauchi
 Otsu
 Parseval
 Penrose
+Raman
 Savart
 Schwarz
 Seidel
