@@ -42,6 +42,7 @@ lualatex
 makeother
 mathbb
 mathbbm
+mathbf
 mathcal
 mathoperator
 mathring

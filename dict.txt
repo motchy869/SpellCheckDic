@@ -429,6 +429,7 @@ lualatex
 makeother
 mathbb
 mathbbm
+mathbf
 mathcal
 mathjax
 mathop
