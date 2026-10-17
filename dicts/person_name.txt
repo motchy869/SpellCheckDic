@@ -18,6 +18,7 @@ Raman
 Savart
 Schwarz
 Seidel
+Strogatz
 Thevenin
 Vandermonde
 Yarlagadda

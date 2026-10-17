@@ -192,6 +192,7 @@ Sigasi
 Simulink
 SpiX
 Stratix
+Strogatz
 Synthesizable
 TDATA
 TEXDIR
